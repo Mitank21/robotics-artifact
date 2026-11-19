@@ -1,0 +1,530 @@
+S.No,Company,Website,LinkedIn,Category,HQ City,Country,Headcount,What they do
+1,1X,https://www.1x.tech/,https://www.linkedin.com/company/1x-technologies/,Humanoid & General-purpose Robots,San Carlos,United States,201-500,NEO humanoid robots for the home
+2,Advanced Farm,http://www.advanced.farm/,https://www.linkedin.com/company/advancedfarm/,Agri-automation,Davis,United States,51-200,Robotic strawberry and apple harvesters
+3,AeroVironment,https://www.avinc.com/,https://www.linkedin.com/company/avinc/,Defence Autonomy,"Arlington, VA",United States,"1,001-5,000",Military drones and loitering munitions
+4,Aeva,https://www.aeva.com/,https://www.linkedin.com/company/aevainc/,Robot Components & Sensors,Mountain View,United States,201-500,4D LiDAR sensors for autonomy and industry
+5,Agile Space Industries,http://www.agile.space/,https://www.linkedin.com/company/agile-space-industries/,Aerospace & Space,Durango,United States,51-200,In-space propulsion thrusters
+6,Agility Robotics,https://agilityrobotics.com/,https://www.linkedin.com/company/agility-robotics/,Humanoid & General-purpose Robots,Salem,United States,201-500,Digit humanoid robots for logistics work
+7,Agtonomy,https://www.agtonomy.com/,https://www.linkedin.com/company/agtonomy/,Agri-automation,San Francisco,United States,11-50,Autonomy for tractors and farm equipment
+8,Aigen,https://aigen.io/,https://www.linkedin.com/company/aigeninc/,Agri-automation,Redmond,United States,11-50,Solar-powered autonomous weeding robots
+9,Aktoria Robotics,https://aktoria.com/,https://www.linkedin.com/company/aktoria-robotics/,Robotics AI & Software,San Francisco,United States,2-10,Robot teleoperation software and remote operator network
+10,Allen Control Systems,https://allencontrolsystems.com/,https://www.linkedin.com/company/allen-control-systems/,Defence Autonomy,Austin,United States,201-500,Robotic gun turrets for counter-drone defence
+11,Ambi Robotics,http://ambirobotics.com/,https://www.linkedin.com/company/ambirobotics/,Industrial & Warehouse Robotics,Berkeley,United States,11-50,AI parcel-sorting robots
+12,AMP Robotics,https://ampsortation.com/,https://www.linkedin.com/company/amp-sortation/,Industrial & Warehouse Robotics,"Louisville, CO",United States,51-200,AI robotic sorting for recycling
+13,Andromeda Surgical,https://www.andromedasurgical.com/,https://www.linkedin.com/company/andromeda-surgical/,Medical & Rehab Robotics,South San Francisco,United States,11-50,Autonomous surgical robots
+14,Anduril Industries,http://www.anduril.com,https://www.linkedin.com/company/anduril/,Defence Autonomy,Orange County,United States,"1,001-5,000",Autonomous defence systems and drones
+15,ANELLO Photonics,https://www.anellophotonics.com/,https://www.linkedin.com/company/anellophotonics/,Robot Components & Sensors,Santa Clara,United States,11-50,Optical gyroscope navigation for autonomous systems
+16,Antropi Robotics,https://www.antropi.world/,https://www.linkedin.com/company/antropi-robotics/,Automated Manufacturing,San Francisco,United States,11-50,Automated factories for high-precision parts
+17,Apex Space,https://www.apexspace.com/,https://www.linkedin.com/company/apexspacetech/,Aerospace & Space,Los Angeles,United States,201-500,Mass-produced satellite buses
+18,Applied Intuition,https://www.appliedintuition.com/,https://www.linkedin.com/company/applied-intuition-inc/,Robotics AI & Software,Sunnyvale,United States,"1,001-5,000",Simulation and autonomy software for vehicles and defence
+19,Apptronik,http://www.apptronik.com,https://www.linkedin.com/company/apptronik-inc./,Humanoid & General-purpose Robots,Austin,United States,201-500,Apollo humanoid robots
+20,Arda Industries,https://arda.ai,https://www.linkedin.com/company/arda-industries/,Robotics AI & Software,San Francisco,United States,11-50,AI that turns product designs into assembly-line plans
+21,Asim,https://www.asim-group.com,https://www.linkedin.com/company/asim-group/,Robotics AI & Software,San Francisco,United States,2-10,Safety testing and benchmarks for robots
+22,Astranis,https://www.astranis.com/,https://www.linkedin.com/company/astranis/,Aerospace & Space,San Francisco,United States,"501-1,000",Small geostationary communication satellites
+23,Astrobotic,https://www.astrobotic.com/,https://www.linkedin.com/company/astrobotic-technology/,Aerospace & Space,Pittsburgh,United States,,Lunar landers and planetary rovers
+24,Atomic Machines,http://www.atomicmachines.com,https://www.linkedin.com/company/atomicmachines/,Automated Manufacturing,Emeryville,United States,51-200,Automated micro-manufacturing machines
+25,August Robotics,http://www.augustrobotics.com,https://www.linkedin.com/company/august-robotics/,Industrial & Warehouse Robotics,Las Vegas,United States,51-200,Floor-marking robots for exhibitions and warehouses
+26,Aurora Innovation,https://aurora.tech/,https://www.linkedin.com/company/auroradriver/,Autonomous Vehicles,Pittsburgh,United States,"1,001-5,000",Self-driving trucks
+27,Autonomous Solutions (ASI),http://www.asirobots.com,https://www.linkedin.com/company/autonomous-solutions/,Autonomous Vehicles,Mendon,United States,201-500,Autonomy kits for off-road vehicles and mining
+28,Avride,https://www.avride.ai/,https://www.linkedin.com/company/avrideai/,Autonomous Vehicles,Austin,United States,201-500,Robotaxis and sidewalk delivery robots
+29,Axiom Space,https://axiomspace.com/,https://www.linkedin.com/company/axiom-space/,Aerospace & Space,Houston,United States,"501-1,000",Commercial space station and spacesuits
+30,Bear Robotics,https://www.bearrobotics.ai/,https://www.linkedin.com/company/bear-robotics-inc/,Service & Consumer Robots,Redwood City,United States,201-500,Restaurant and hospitality serving robots
+31,Bedrock Robotics,https://bedrockrobotics.com,https://www.linkedin.com/company/bedrock-robotics/,Construction Robotics,San Francisco,United States,51-200,Autonomy retrofits for construction excavators
+32,Berkshire Grey,https://www.berkshiregrey.com/,https://www.linkedin.com/company/berkshire-grey/,Industrial & Warehouse Robotics,"Bedford, MA",United States,201-500,Robotic picking and fulfilment automation
+33,Blue Water Autonomy,https://www.blw.ai/,https://www.linkedin.com/company/blue-water-autonomy/,Defence Autonomy,Boston,United States,11-50,Autonomous long-range naval ships
+34,Bonsai Robotics,https://bonsairobotics.ai/,https://www.linkedin.com/company/bonsai-robotics/,Agri-automation,San Jose,United States,51-200,Vision autonomy for orchard and farm machines
+35,Boston Dynamics,http://www.bostondynamics.com,https://www.linkedin.com/company/boston-dynamics/,Humanoid & General-purpose Robots,Waltham,United States,"501-1,000","Spot, Stretch and Atlas robots"
+36,Bot Auto,https://bot.auto/,https://www.linkedin.com/company/bot-auto/,Autonomous Vehicles,Houston,United States,51-200,Autonomous trucking
+37,Brain Corp,https://www.braincorp.com/,https://www.linkedin.com/company/brain-corporation/,Robotics AI & Software,San Diego,United States,201-500,Autonomy software for commercial cleaning robots
+38,Bright Machines,http://www.brightmachines.com,https://www.linkedin.com/company/bright-machines/,Automated Manufacturing,Burlingame,United States,51-200,Robotics and AI for data-centre hardware production
+39,Brightpick,https://brightpick.ai/,https://www.linkedin.com/company/brightpick/,Industrial & Warehouse Robotics,Austin,United States,201-500,Autonomous mobile picking robots
+40,Brinc,https://brincdrones.com/,https://www.linkedin.com/company/brincdrones/,Drones & UAVs,Seattle,United States,201-500,Drones for first responders
+41,Built Robotics,https://www.builtrobotics.com/,https://www.linkedin.com/company/builtrobotics/,Construction Robotics,San Francisco,United States,11-50,Autonomous solar-pile driving robots
+42,Burro,http://www.burro.ai/,https://www.linkedin.com/company/burro-ai/,Agri-automation,Philadelphia,United States,51-200,Collaborative autonomous farm robots
+43,Canvas,https://www.jlg.com/en/canvas,https://www.linkedin.com/company/jlg-canvas-robotics/,Construction Robotics,San Francisco,United States,51-200,Drywall-finishing construction robots
+44,Carbon Robotics,https://carbonrobotics.com/,https://www.linkedin.com/company/carbonrobotics/,Agri-automation,Seattle,United States,51-200,Laser weeding robots and autonomous tractors
+45,Cartwheel Robotics,https://www.cartwheelrobotics.com/,https://www.linkedin.com/company/cartwheel-robotics/,Humanoid & General-purpose Robots,Reno,United States,2-10,Friendly humanoid robots for homes
+46,Castelion,https://www.castelion.com/,https://www.linkedin.com/company/castelion/,Defence Autonomy,Torrance,United States,201-500,Low-cost hypersonic strike weapons
+47,Chaos Industries,https://www.chaosinc.com/,https://www.linkedin.com/company/chaosindustries/,Defence Autonomy,Los Angeles,United States,201-500,Advanced radar and sensing for defence
+48,Charge Robotics,https://www.chargerobotics.com/,https://www.linkedin.com/company/charge-robotics/,Construction Robotics,San Leandro,United States,11-50,Robotic assembly for utility-scale solar construction
+49,Chef Robotics,https://www.chefrobotics.ai/,https://www.linkedin.com/company/chef-robotics/,Service & Consumer Robots,San Francisco,United States,51-200,AI robots for food assembly lines
+50,Civ Robotics,http://www.civrobotics.com,https://www.linkedin.com/company/civrobotics/,Construction Robotics,San Francisco,United States,11-50,Autonomous surveying and layout robots for construction
+51,Cobalt Robotics,https://www.cobaltai.com/,https://www.linkedin.com/company/just-cobalt-ai/,Service & Consumer Robots,San Francisco,United States,51-200,Indoor security robots
+52,Coco Robotics,https://www.cocodelivery.com/,https://www.linkedin.com/company/cocodelivery/,Service & Consumer Robots,Santa Monica,United States,51-200,Sidewalk food-delivery robots
+53,Collaborative Robotics,https://www.co.bot/,https://www.linkedin.com/company/co-bot/,Industrial & Warehouse Robotics,Santa Clara,United States,51-200,Mobile collaborative robots for logistics
+54,Corvus Robotics,https://www.corvus-robotics.com,https://www.linkedin.com/company/corvus-robotics/,Drones & UAVs,San Francisco,United States,11-50,Autonomous inventory-scanning drones for warehouses
+55,Covariant,http://covariant.ai/,https://www.linkedin.com/company/covariant-ai/,Robotics AI & Software,Berkeley,United States,51-200,AI foundation models for warehouse robots
+56,Darwin Robotics,https://darwinrobotics.ai/,https://www.linkedin.com/company/darwin-robotics-inc/,Humanoid & General-purpose Robots,San Francisco,United States,2-10,Robot technicians for infrastructure assembly and maintenance
+57,Daxbot,https://daxbot.com/,https://www.linkedin.com/company/dax-bot/,Service & Consumer Robots,Philomath,United States,11-50,Sidewalk delivery robots
+58,Dedrone,https://www.dedrone.com/,https://www.linkedin.com/company/dedrone/,Defence Autonomy,"Sterling, VA",United States,51-200,Counter-drone detection systems (Axon)
+59,Dexmate,https://www.dexmate.com/,https://www.linkedin.com/company/dexmate/,Humanoid & General-purpose Robots,Fremont,United States,51-200,Wheeled semi-humanoid robots
+60,Dexterity,https://dexterity.ai/,https://www.linkedin.com/company/dexterityinc/,Industrial & Warehouse Robotics,Redwood City,United States,51-200,AI robots for truck loading and parcel handling
+61,Diligent Robotics,http://diligentrobots.com/,https://www.linkedin.com/company/diligent-robotics/,Service & Consumer Robots,Austin,United States,201-500,Moxi hospital service robots
+62,Dream Labs,https://dreamlabs.ai/,https://www.linkedin.com/company/dreamlabs-ai/,Robotics AI & Software,San Francisco,United States,2-10,Robot foundation models and control APIs
+63,Dream Robotics,https://dreamrobotics.tech/,https://www.linkedin.com/company/dream-robotics-inc/,Industrial & Warehouse Robotics,Mountain View,United States,2-10,Dual-arm mobile warehouse robots
+64,Drift,https://godrift.ai/,https://www.linkedin.com/company/drifthq/,Robotics AI & Software,San Francisco,United States,2-10,"Robot simulation, testing and evaluation platform"
+65,Dusty Robotics,https://www.dustyrobotics.com/,https://www.linkedin.com/company/dusty-robotics/,Construction Robotics,Mountain View,United States,51-200,Layout-printing robots for construction
+66,Dyna Robotics,https://www.dyna.co/,https://www.linkedin.com/company/dyna-robotics/,Robotics AI & Software,Redwood City,United States,11-50,Foundation models for commercial robot tasks
+67,Eka Robotics,https://ekarobotics.com/,https://www.linkedin.com/company/eka-robotics/,Humanoid & General-purpose Robots,"Cambridge, MA",United States,11-50,"AI robots using vision, physics reasoning and touch"
+68,Ekso Bionics,https://eksobionics.com/,https://www.linkedin.com/company/eksobionics/,Medical & Rehab Robotics,San Rafael,United States,51-200,Medical and industrial exoskeletons
+69,Electra.aero,https://electra.aero/,https://www.linkedin.com/company/electra-aero/,Aerospace & Space,Manassas,United States,51-200,Hybrid-electric ultra-short takeoff aircraft
+70,Endeavor Optical Networks,https://www.endeavornetworks.com,https://www.linkedin.com/company/endeavornetworks/,Aerospace & Space,Culver City,United States,2-10,Laser communications for satellites
+71,Epirus,https://www.epirusinc.com/,https://www.linkedin.com/company/epirus/,Defence Autonomy,Torrance,United States,201-500,High-power microwave counter-drone systems
+72,Eureka Robotics,https://eurekarobotics.com,https://www.linkedin.com/company/eurekarobotics/,Robotics AI & Software,Atlanta,United States,51-200,3D vision system for bin picking
+73,Fabric,https://www.getfabric.com/,https://www.linkedin.com/company/fabriclogistics/,Industrial & Warehouse Robotics,New York,United States,201-500,Micro-fulfilment robotics for grocery and retail
+74,FarmBot,https://farm.bot/,https://www.linkedin.com/company/farmbot-io/,Agri-automation,San Luis Obispo,United States,2-10,Open-source CNC gardening robots
+75,Feather Robotics,https://feather.dev/,https://www.linkedin.com/company/feather-robotics/,Humanoid & General-purpose Robots,East Palo Alto,United States,11-50,Modular mobile bimanual robot hardware
+76,FieldAI,https://fieldai.com/,https://www.linkedin.com/company/fieldai/,Robotics AI & Software,Irvine,United States,201-500,Autonomy software for robots in field environments
+77,Figure,https://www.figure.ai,https://www.linkedin.com/company/figure-ai/,Humanoid & General-purpose Robots,San Jose,United States,201-500,General-purpose humanoid robots
+78,Firefly Aerospace,http://www.fireflyspace.com/,https://www.linkedin.com/company/firefly-aerospace/,Aerospace & Space,Cedar Park,United States,"501-1,000",Launch vehicles and lunar landers
+79,Firehawk Aerospace,https://firehawkdefense.com/,https://www.linkedin.com/company/firehawk-aerospace/,Defence Autonomy,Dallas,United States,51-200,3D-printed rocket motors and munitions
+80,Firestorm Labs,https://www.launchfirestorm.com/,https://www.linkedin.com/company/firestorm-labs/,Defence Autonomy,San Diego,United States,51-200,Expeditionary 3D-printed military drones
+81,Formic,https://formic.co/,https://www.linkedin.com/company/formic-technologies/,Industrial & Warehouse Robotics,Bolingbrook,United States,51-200,Robots-as-a-service for factories
+82,Formlabs,https://formlabs.com/,https://www.linkedin.com/company/formlabs/,Automated Manufacturing,Somerville,United States,"501-1,000",Professional 3D printers
+83,FORT Robotics,https://fortrobotics.com,https://www.linkedin.com/company/fort-robotics/,Robot Components & Sensors,Philadelphia,United States,51-200,Safety and control systems for robots
+84,Foundation,https://foundation.bot,https://www.linkedin.com/company/foundation-bot/,Humanoid & General-purpose Robots,San Francisco,United States,51-200,Phantom humanoid robots
+85,Foundry Robotics,https://foundryrobotics.ai/,https://www.linkedin.com/company/foundry-robotics/,Automated Manufacturing,Emeryville,United States,2-10,AI-driven adaptive assembly factories
+86,Fox Robotics,https://foxrobotics.com/,https://www.linkedin.com/company/foxbots/,Industrial & Warehouse Robotics,Austin,United States,51-200,Autonomous forklifts for trailer unloading
+87,Foxglove,https://foxglove.dev/,https://www.linkedin.com/company/foxglovedev/,Robotics AI & Software,San Francisco,United States,51-200,Data visualisation and tooling for robotics
+88,Freeform,https://freeform.co/,https://www.linkedin.com/company/freeformfuture/,Automated Manufacturing,Hawthorne,United States,51-200,Autonomous metal 3D-printing factories
+89,Gambit Robotics,https://www.gambitrobotics.ai/,https://www.linkedin.com/company/gambit-robotics-inc/,Service & Consumer Robots,New York,United States,2-10,AI cooking assistant robot
+90,Gather AI,https://gather.ai/,https://www.linkedin.com/company/gather-ai/,Drones & UAVs,Pittsburgh,United States,51-200,Autonomous inventory drones for warehouses
+91,Gatik,https://www.gatik.ai/,https://www.linkedin.com/company/gatik_ai/,Autonomous Vehicles,Santa Clara,United States,201-500,Autonomous middle-mile delivery trucks
+92,Gecko Robotics,http://www.geckorobotics.com/,https://www.linkedin.com/company/geckorobotics/,"Field, Inspection & Marine Robotics",Pittsburgh,United States,201-500,Wall-climbing inspection robots
+93,Generalist,https://generalistai.com,https://www.linkedin.com/company/generalistai/,Robotics AI & Software,San Mateo,United States,11-50,Foundation models for robot dexterity
+94,Ghost Robotics,http://www.ghostrobotics.io,https://www.linkedin.com/company/ghostrobotics/,"Field, Inspection & Marine Robotics",Philadelphia,United States,51-200,Rugged legged robots for defence and industry
+95,Gideon,https://www.gideon.ai,https://www.linkedin.com/company/gideonrobotics/,Industrial & Warehouse Robotics,Chicago,United States,51-200,Autonomous forklifts for loading bays
+96,GrayMatter Robotics,https://www.graymatter-robotics.com/,https://www.linkedin.com/company/graymatter-robotics/,Industrial & Warehouse Robotics,Los Angeles,United States,51-200,"AI robots for sanding, polishing and finishing"
+97,Greensea IQ,https://greenseaiq.com/,https://www.linkedin.com/company/greensea-iq/,"Field, Inspection & Marine Robotics","Richmond, VT",United States,51-200,Underwater robotics and autonomy software
+98,Hadrian,https://www.hadrian.co/,https://www.linkedin.com/company/hadrianautomation/,Automated Manufacturing,Los Angeles,United States,201-500,Automated precision-parts factories
+99,HavocAI,https://www.havocai.com/,https://www.linkedin.com/company/havocai/,Defence Autonomy,Providence,United States,201-500,Autonomous maritime vessels and swarms
+100,Haystack Robotics,https://www.haystackrobotics.com,https://www.linkedin.com/company/haystackrobotics/,Service & Consumer Robots,Portland,United States,11-50,UV disinfection robots for healthcare
+101,Hello Robot,https://hello-robot.com/,https://www.linkedin.com/company/hello-robot-inc/,Research & Education Robots,Martinez,United States,11-50,Stretch mobile manipulator for research and assistive use
+102,Hermeus,http://www.hermeus.com,https://www.linkedin.com/company/hermeus/,Aerospace & Space,Los Angeles,United States,201-500,Hypersonic aircraft
+103,Hidden Level,https://www.hiddenlevel.com/,https://www.linkedin.com/company/hidden-level-inc/,Defence Autonomy,Syracuse,United States,51-200,Airspace monitoring and counter-UAS sensing
+104,Hillbot,https://www.hillbot.ai/,https://www.linkedin.com/company/hillbot/,Robotics AI & Software,La Jolla,United States,11-50,Simulation and generative data for robot AI
+105,Honeywell,https://www.honeywell.com/,https://www.linkedin.com/company/honeywell/,Industrial Automation,Charlotte,United States,"10,001+","Industrial automation, process controls and aerospace systems"
+106,Human Archive,https://www.humanarchive.ai/,https://www.linkedin.com/company/human-archive/,Robotics AI & Software,San Francisco,United States,2-10,Human motion data for training robots
+107,Humble Robotics,https://humblerobotics.ai/,https://www.linkedin.com/company/humblerobotics/,Autonomous Vehicles,San Francisco,United States,11-50,Autonomous electric freight haulers
+108,Impulse Space,https://impulsespace.com,https://www.linkedin.com/company/impulse-space/,Aerospace & Space,Redondo Beach,United States,201-500,In-space transportation vehicles
+109,Inbolt,http://www.inbolt.com,https://www.linkedin.com/company/inbolt/,Robotics AI & Software,Detroit,United States,11-50,3D vision guidance for industrial robots
+110,Industrial Next,https://industrialnext.ai/,https://www.linkedin.com/company/industrial-next/,Automated Manufacturing,San Francisco,United States,11-50,AI-driven reconfigurable robotic manufacturing cells
+111,InOrbit.AI,https://www.inorbit.ai,https://www.linkedin.com/company/inorbitai/,Robotics AI & Software,Mountain View,United States,11-50,Robot fleet operations software
+112,Intuitive Machines,http://intuitivemachines.com/,https://www.linkedin.com/company/intuitive-machines/,Aerospace & Space,Houston,United States,"1,001-5,000",Lunar landers and space infrastructure
+113,Intuitive Surgical,http://www.intuitive.com/,https://www.linkedin.com/company/intuitive-surgical/,Medical & Rehab Robotics,Sunnyvale,United States,"10,001+",da Vinci robotic surgical systems
+114,Inversion,https://www.inversionspace.com/,https://www.linkedin.com/company/inversion-space/,Aerospace & Space,Playa Vista,United States,51-200,Re-entry vehicles for space cargo
+115,Joby Aviation,https://www.jobyaviation.com/,https://www.linkedin.com/company/jobyaviation/,Aerospace & Space,Santa Cruz,United States,"1,001-5,000",Electric air taxis
+116,K2 Space,https://www.k2space.com/,https://www.linkedin.com/company/k2-space/,Aerospace & Space,Los Angeles,United States,51-200,Large high-power satellite platforms
+117,KEENON Robotics,https://www.keenon.com/en/,https://www.linkedin.com/company/keenonrobotics/,Service & Consumer Robots,San Francisco,United States,"1,001-5,000",Service robots for restaurants and hotels
+118,Kewazo,https://www.kewazo.com/,https://www.linkedin.com/company/kewazo/,Construction Robotics,Houston,United States,11-50,Robotic scaffolding lifts for construction
+119,Kiwibot (Robot.com),https://www.robot.com/,https://www.linkedin.com/company/robot-com/,Service & Consumer Robots,San Francisco,United States,51-200,Sidewalk delivery robots
+120,Knightscope,https://knightscope.com/,https://www.linkedin.com/company/knightscope-inc-/,Service & Consumer Robots,Sunnyvale,United States,"501-1,000",Autonomous security robots
+121,Kodiak Robotics,https://kodiak.ai/,https://www.linkedin.com/company/kodiakai/,Autonomous Vehicles,Mountain View,United States,201-500,Autonomous trucking
+122,Kratos Defense,https://www.kratosdefense.com/,https://www.linkedin.com/company/kratos-defense-and-security-solutions/,Defence Autonomy,San Diego,United States,"1,001-5,000",Unmanned jet aircraft and defence systems
+123,Libra Robotics,https://librabots.com,https://www.linkedin.com/company/librabots/,Construction Robotics,"Newark, CA",United States,2-10,Robotic crews for solar farms and data-centre builds
+124,Lightberry,https://lightberry.com/,https://www.linkedin.com/company/lightberryinc/,Robotics AI & Software,San Francisco,United States,2-10,Conversational software for humanoid robots
+125,Locus Robotics,https://locusrobotics.com/,https://www.linkedin.com/company/locus-robotics/,Industrial & Warehouse Robotics,"Wilmington, MA",United States,201-500,Warehouse picking AMRs
+126,Loft Orbital,http://www.loftorbital.com,https://www.linkedin.com/company/loft-orbital/,Aerospace & Space,San Francisco,United States,201-500,Satellite infrastructure as a service
+127,Lucid Bots,https://www.lucidbots.com/,https://www.linkedin.com/company/lucid-bots/,Service & Consumer Robots,Charlotte,United States,51-200,Cleaning drones and robots for buildings
+128,Mach Industries,https://machindustries.com/,https://www.linkedin.com/company/machindustries/,Defence Autonomy,Huntington Beach,United States,201-500,Autonomous strike systems and drones
+129,Machina Labs,https://machinalabs.ai/,https://www.linkedin.com/company/machina-labs/,Automated Manufacturing,Los Angeles,United States,51-200,AI-guided robotic metal forming and manufacturing
+130,Mantis Robotics,https://mantis-robotics.com/,https://www.linkedin.com/company/mantis-robotics/,Industrial & Warehouse Robotics,Pleasanton,United States,51-200,Safe high-payload industrial robot arms
+131,Matternet,https://www.matternet.com/,https://www.linkedin.com/company/matternet-inc/,Drones & UAVs,Mountain View,United States,51-200,Drone delivery systems
+132,Maven Robotics,https://mavenrobotics.ai/,https://www.linkedin.com/company/mavenrobotics/,Humanoid & General-purpose Robots,Santa Clara,United States,51-200,General-purpose AI robots
+133,Maxinsights,https://www.maxinsights.ai/,https://www.linkedin.com/company/maxinsights-ai/,Robotics AI & Software,San Francisco,United States,51-200,Data solutions for physical AI
+134,May Mobility,https://maymobility.com/,https://www.linkedin.com/company/maymobility/,Autonomous Vehicles,Ann Arbor,United States,201-500,Autonomous shuttles and robotaxis
+135,Mbodi AI,https://www.mbodi.ai/,https://www.linkedin.com/company/mbodiai/,Robotics AI & Software,New York,United States,2-10,AI agents for teaching industrial robots
+136,Medical Microinstruments (MMI),https://www.mmimicro.com/,https://www.linkedin.com/company/mmimicro/,Medical & Rehab Robotics,Jacksonville,United States,51-200,Robotic microsurgery systems
+137,Medra,https://www.medra.ai/,https://www.linkedin.com/company/medra-ai/,Research & Education Robots,San Francisco,United States,11-50,Physical AI robots for lab automation
+138,Merlin Labs,https://merlinlabs.com/,https://www.linkedin.com/company/merlinlabs/,Aerospace & Space,Boston,United States,51-200,Autonomous flight systems for aircraft
+139,Microbot Medical,http://www.microbotmedical.com/,https://www.linkedin.com/company/microbot-medical/,Medical & Rehab Robotics,Hingham,United States,11-50,Robotic systems for endovascular procedures
+140,MightyFly,http://mightyfly.com/,https://www.linkedin.com/company/mightyfly/,Drones & UAVs,San Francisco,United States,11-50,Autonomous cargo aircraft
+141,Mind Robotics,https://www.mindrobotics.com/,https://www.linkedin.com/company/mindrobotics/,Industrial & Warehouse Robotics,Palo Alto,United States,51-200,Generalizable robots for industrial deployment
+142,Minerva Humanoids,https://www.minervahumanoids.com/,https://www.linkedin.com/company/minervahumanoids/,Humanoid & General-purpose Robots,San Francisco,United States,11-50,Humanoid robots for dangerous jobs
+143,Miso Robotics,https://www.misorobotics.com/,https://www.linkedin.com/company/miso-robotics/,Service & Consumer Robots,Los Angeles,United States,51-200,Robotic fry stations for commercial kitchens
+144,Monarch Tractor,http://www.monarchtractor.com,https://www.linkedin.com/company/monarch-tractor/,Agri-automation,Livermore,United States,201-500,Autonomous electric tractors
+145,Multiply Labs,http://multiplylabs.com,https://www.linkedin.com/company/multiply-labs/,Automated Manufacturing,San Francisco,United States,11-50,Robotic systems for biopharma manufacturing
+146,Muon Space,http://www.muonspace.com/,https://www.linkedin.com/company/muon-space/,Aerospace & Space,Mountain View,United States,201-500,Earth-observation satellite constellations
+147,Mytra,https://mytra.ai/,https://www.linkedin.com/company/mytra-ai/,Industrial & Warehouse Robotics,"Brisbane, CA",United States,51-200,Robotic warehouse storage and pallet movement
+148,Nauticus Robotics,https://nauticusrobotics.com/,https://www.linkedin.com/company/nauticus-robotics-inc/,"Field, Inspection & Marine Robotics","Webster, TX",United States,51-200,Autonomous subsea robots
+149,Neocis,https://www.neocis.com/,https://www.linkedin.com/company/neocis/,Medical & Rehab Robotics,Miami,United States,51-200,Robotic dental implant surgery
+150,Neros Technologies,https://www.neros.tech/,https://www.linkedin.com/company/neros-tech/,Defence Autonomy,Los Angeles,United States,201-500,Low-cost FPV attack drones
+151,Nimble Robotics,https://nimble.ai/,https://www.linkedin.com/company/nimble-robotics/,Industrial & Warehouse Robotics,San Francisco,United States,51-200,Autonomous robotic fulfilment centres
+152,Noah Medical,https://www.noahmed.com/,https://www.linkedin.com/company/noahmed/,Medical & Rehab Robotics,San Carlos,United States,201-500,Robotic bronchoscopy platform
+153,Nominal,https://nominal.io,https://www.linkedin.com/company/nominal-inc/,Robotics AI & Software,Austin,United States,201-500,Hardware test and data platform for engineering teams
+154,Okibo,https://okibo.com/,https://www.linkedin.com/company/okibo-ltd/,Construction Robotics,Englewood,United States,11-50,Autonomous wall-finishing robots
+155,Opentrons,https://opentrons.com,https://www.linkedin.com/company/opentrons-labworks-inc./,Research & Education Robots,Long Island City,United States,201-500,Lab automation liquid-handling robots
+156,Orchard Robotics,http://www.orchardrobotics.com,https://www.linkedin.com/company/orchard-robotics/,Agri-automation,Seattle,United States,,Tractor-mounted cameras and AI for orchard crop data
+157,Osaro,https://www.osaro.com/,https://www.linkedin.com/company/osaroinc/,Industrial & Warehouse Robotics,San Francisco,United States,51-200,AI robotic picking for e-commerce
+158,Ouster,https://ouster.com/,https://www.linkedin.com/company/ouster/,Robot Components & Sensors,San Francisco,United States,201-500,Digital lidar sensors for robots and vehicles
+159,Overland AI,https://www.overland.ai/,https://www.linkedin.com/company/overland-ai/,Defence Autonomy,Seattle,United States,51-200,Off-road autonomy for military ground vehicles
+160,Path Robotics,https://www.path-robotics.com/,https://www.linkedin.com/company/path-robotics/,Industrial & Warehouse Robotics,Columbus,United States,201-500,AI-powered autonomous welding robots
+161,Pave Robotics,https://pave-robotics.com,https://www.linkedin.com/company/pave-robotics/,Construction Robotics,San Jose,United States,2-10,Robots that repair roads
+162,Performance Drone Works,https://www.pdw.ai/,https://www.linkedin.com/company/pdw-ai/,Defence Autonomy,Huntsville,United States,201-500,Military small UAS
+163,Persona AI,https://persona.ai/,https://www.linkedin.com/company/persona-humanoids-at-work/,Humanoid & General-purpose Robots,Houston,United States,51-200,Humanoid robots for shipyards and heavy industry
+164,Physical Intelligence,https://www.pi.website/,https://www.linkedin.com/company/physical-intelligence/,Robotics AI & Software,San Francisco,United States,51-200,General-purpose AI models for robots
+165,Pickle Robot,http://www.picklerobot.com,https://www.linkedin.com/company/pickle-robot-company/,Industrial & Warehouse Robotics,Boston,United States,51-200,Robots that unload trucks and containers
+166,Picogrid,https://picogrid.com/,https://www.linkedin.com/company/picogrid/,Defence Autonomy,El Segundo,United States,51-200,Integration platform for defence sensors and autonomy
+167,Pliyt,https://pliyt.com,https://www.linkedin.com/company/pliyt/,Autonomous Vehicles,San Jose,United States,2-10,Autonomous ride-sharing pods
+168,Plus One Robotics,https://www.plusonerobotics.com/,https://www.linkedin.com/company/plusone-robotics/,Industrial & Warehouse Robotics,San Antonio,United States,51-200,Vision software for parcel-handling robots
+169,Polemos Industries,https://polemosindustries.com/,https://www.linkedin.com/company/polemos-industries/,Defence Autonomy,San Francisco,United States,2-10,AI-guided low-cost missiles and launchers
+170,PROCEPT BioRobotics,https://www.procept-biorobotics.com/,https://www.linkedin.com/company/procept-corporation/,Medical & Rehab Robotics,San Jose,United States,"501-1,000",Robotic waterjet surgery for urology
+171,Proception.AI,https://www.proception.ai/,https://www.linkedin.com/company/proceptionai/,Robotics AI & Software,Palo Alto,United States,11-50,Tactile sensing and AI for robot hands
+172,Pronto,https://pronto.ai/,https://www.linkedin.com/company/prontodotai/,Autonomous Vehicles,San Francisco,United States,51-200,Autonomous haulage for mining and quarries
+173,Proprio Robotics,https://www.propriorobotics.com,https://www.linkedin.com/company/proprio-robotics/,Industrial & Warehouse Robotics,San Francisco,United States,2-10,Robots for data-centre server racking and teardown
+174,Raise Robotics,http://raiserobotics.ai,https://www.linkedin.com/company/raise-robotics/,Construction Robotics,San Francisco,United States,2-10,Robots for construction façade installation
+175,Raytheon (RTX),http://www.rtx.com/raytheon,https://www.linkedin.com/company/raytheon/,Defence Autonomy,"Arlington, VA",United States,"10,001+","Missiles, radars and defence systems (RTX)"
+176,Re:Build Manufacturing,https://rebuildmanufacturing.com/,https://www.linkedin.com/company/re-build-manufacturing/,Automated Manufacturing,Framingham,United States,"1,001-5,000",Industrial engineering and manufacturing group
+177,Realtime Robotics,https://rtr.ai/,https://www.linkedin.com/company/realtimerobotics/,Robotics AI & Software,Boston,United States,51-200,Motion-planning software for industrial robots
+178,Red Barn Robotics,https://www.redbarnrobotics.com,https://www.linkedin.com/company/red-barn-robotics/,Agri-automation,Tukwila,United States,2-10,Autonomous weeding robots
+179,Red Cat Holdings,https://redcat.red/,https://www.linkedin.com/company/red-cat/,Drones & UAVs,South Salt Lake,United States,51-200,Military drones (Teal Drones parent)
+180,Reflex Robotics,https://www.reflexrobotics.com/,https://www.linkedin.com/company/reflexrobotics/,Humanoid & General-purpose Robots,Brooklyn,United States,11-50,Wheeled humanoid robots for warehouses
+181,REGENT,https://www.regentcraft.com/,https://www.linkedin.com/company/regentcraft/,Aerospace & Space,North Kingstown,United States,51-200,Electric seagliders for coastal transport
+182,Relativity Space,https://www.relativityspace.com/,https://www.linkedin.com/company/relativity/,Aerospace & Space,Long Beach,United States,"1,001-5,000",3D-printed reusable rockets
+183,Rendezvous Robotics,https://www.rdvrobotics.com,https://www.linkedin.com/company/rendezvous-robotics/,Aerospace & Space,Golden,United States,2-10,Self-assembling space structures
+184,Renovate Robotics,https://renovaterobotics.com/,https://www.linkedin.com/company/renovate-robotics/,Construction Robotics,Brooklyn,United States,2-10,Roofing installation robots
+185,Revise Robotics,https://www.reviserobotics.com/,https://www.linkedin.com/company/revise-robotics/,Industrial & Warehouse Robotics,New York,United States,2-10,Robotics for electronics refurbishment and resale
+186,REVOBOTS,https://revobots.ai,https://www.linkedin.com/company/revobots/,Industrial & Warehouse Robotics,Phoenix,United States,11-50,3D-printed task-adaptive robots for hazardous work
+187,Robocurve,https://robocurve.org/,https://www.linkedin.com/company/robocurve/,Robotics AI & Software,San Francisco,United States,2-10,Evaluation tools for robotics and physical AI
+188,Robust.AI,https://robust.ai,https://www.linkedin.com/company/robust-ai/,Industrial & Warehouse Robotics,San Carlos,United States,51-200,Collaborative warehouse mobile robots
+189,Rocket Lab,https://rocketlabcorp.com,https://www.linkedin.com/company/rocket-lab-corp/,Aerospace & Space,Long Beach,United States,"1,001-5,000",Launch vehicles and spacecraft
+190,Rockwell Automation,https://rockwellautomation.com/,https://www.linkedin.com/company/rockwell-automation/,Industrial Automation,Milwaukee,United States,"10,001+","Industrial automation, control systems and factory software"
+191,Rover Robotics,https://roverrobotics.com/,https://www.linkedin.com/company/rover-robotics/,Research & Education Robots,Hopkins,United States,11-50,Mobile robot platforms for research and industry
+192,Rugged Robotics,http://www.rugged-robotics.com,https://www.linkedin.com/company/rugged-robotics/,Construction Robotics,Houston,United States,11-50,Layout-marking robots for construction sites
+193,SafeWorld,https://www.safeworld.ai/,https://www.linkedin.com/company/safeworldai/,Robotics AI & Software,Palo Alto,United States,2-10,Robot safety testing and simulation software
+194,Saga Robotics,https://www.sagarobotics.com/,https://www.linkedin.com/company/saga-robotics/,Agri-automation,Paso Robles,United States,11-50,Thorvald UV-treatment farm robots
+195,Saildrone,https://www.saildrone.com/,https://www.linkedin.com/company/saildrone-inc/,"Field, Inspection & Marine Robotics",Alameda,United States,201-500,Autonomous ocean surface vehicles
+196,Saronic,https://www.saronic.com/,https://www.linkedin.com/company/saronic-technologies/,Defence Autonomy,Austin,United States,"1,001-5,000",Autonomous surface vessels for defence
+197,Scout AI,https://www.scoutco.ai/,https://www.linkedin.com/company/scout-ai-official/,Defence Autonomy,Sunnyvale,United States,11-50,AI agents for defence unmanned systems
+198,Seegrid,https://seegrid.com/,https://www.linkedin.com/company/seegrid/,Industrial & Warehouse Robotics,Pittsburgh,United States,201-500,Autonomous pallet trucks and tow tractors
+199,Serve Robotics,https://serverobotics.com/,https://www.linkedin.com/company/serverobotics/,Service & Consumer Robots,Los Angeles,United States,51-200,Sidewalk delivery robots
+200,Shield AI,https://shield.ai/,https://www.linkedin.com/company/shield-ai/,Defence Autonomy,San Diego,United States,"1,001-5,000",AI pilots and autonomous military aircraft
+201,Simbe Robotics,https://www.simberobotics.com/,https://www.linkedin.com/company/simbe/,Service & Consumer Robots,South San Francisco,United States,51-200,Retail shelf-scanning robots
+202,Skild AI,https://skild.ai/,https://www.linkedin.com/company/skildai/,Robotics AI & Software,Pittsburgh,United States,11-50,Foundation models that control many types of robots
+203,Skydio,https://www.skydio.com/,https://www.linkedin.com/company/skydio/,Drones & UAVs,San Mateo,United States,"501-1,000",Autonomous drones for defence and enterprise
+204,SpaceX,http://www.spacex.com/,https://www.linkedin.com/company/spacex/,Aerospace & Space,Hawthorne,United States,"1,001-5,000","Reusable rockets, Starship and Starlink"
+205,Splash Industries,https://splash9.com,https://www.linkedin.com/company/splashindustries/,Defence Autonomy,Inglewood,United States,2-10,Low-cost autonomous drone-boats (USVs)
+206,Stack AV,https://stackav.com/,https://www.linkedin.com/company/stackav/,Autonomous Vehicles,Pittsburgh,United States,51-200,Autonomous trucking (SoftBank-backed)
+207,Standard Bots,https://standardbots.com/,https://www.linkedin.com/company/standard-bots/,Industrial & Warehouse Robotics,Glen Cove,United States,51-200,AI-native industrial robot arms
+208,Standard Subsea,https://standardsubsea.com/,https://www.linkedin.com/company/standard-subsea/,"Field, Inspection & Marine Robotics",El Segundo,United States,2-10,Autonomous subsea vehicles
+209,Starfish Space,https://www.starfishspace.com/,https://www.linkedin.com/company/starfish-space/,Aerospace & Space,Tukwila,United States,51-200,Satellite servicing and docking spacecraft
+210,Starpath,https://starpath.space/,https://www.linkedin.com/company/starpathspace/,Aerospace & Space,Hawthorne,United States,11-50,Robotic propellant factories for the Moon and Mars
+211,Stoke Space,https://www.stokespace.com/,https://www.linkedin.com/company/stoke-space/,Aerospace & Space,"Kent, WA",United States,201-500,Fully reusable rockets
+212,Sunday,https://www.sunday.ai/,https://www.linkedin.com/company/sundayrobotics/,Service & Consumer Robots,Redwood City,United States,51-200,Helpful home robots
+213,Surgical Automations,https://www.autosurg.com/,https://www.linkedin.com/company/autosurg/,Medical & Rehab Robotics,Dallas,United States,2-10,Autonomous surgical robotics
+214,Symbotic,https://www.symbotic.com/,https://www.linkedin.com/company/symbotic/,Industrial & Warehouse Robotics,"Wilmington, MA",United States,"1,001-5,000",AI-powered robotic warehouse automation
+215,Teradyne Robotics,https://www.teradyne.com/,https://www.linkedin.com/company/teradyne-robotics/,Industrial & Warehouse Robotics,North Reading,United States,"501-1,000",Universal Robots and MiR parent group
+216,Tesla,https://www.tesla.com/,https://www.linkedin.com/company/tesla-motors/,Autonomous Vehicles,Austin,United States,"10,001+","EVs, Autopilot autonomy and Optimus humanoid robots"
+217,Third Wave Automation,https://thirdwave.ai/,https://www.linkedin.com/company/thirdwaveautomation/,Industrial & Warehouse Robotics,Union City,United States,51-200,Autonomous forklifts with shared autonomy
+218,Toborlife,https://toborlife.ai/,https://www.linkedin.com/company/toborlife/,Service & Consumer Robots,Mountain View,United States,11-50,Robot control systems for home and business robots
+219,Torc Robotics,http://torc.ai/,https://www.linkedin.com/company/torc-robotics/,Autonomous Vehicles,Blacksburg,United States,"501-1,000",Autonomous trucks (Daimler Truck)
+220,Trener Robotics,http://www.trener.ai,https://www.linkedin.com/company/trener-robotics/,Robotics AI & Software,San Jose,United States,11-50,AI skills software for industrial robots
+221,True Anomaly,https://www.trueanomaly.space/,https://www.linkedin.com/company/true-anomaly/,Aerospace & Space,"Englewood, CO",United States,"501-1,000",Autonomous space-security spacecraft
+222,Turion Space,https://www.turionspace.com/,https://www.linkedin.com/company/turion-space/,Aerospace & Space,Irvine,United States,51-200,Space domain awareness and servicing spacecraft
+223,Tutor Intelligence,https://tutorintelligence.com/,https://www.linkedin.com/company/tutorintelligence/,Industrial & Warehouse Robotics,Watertown,United States,51-200,AI robot workers for packaging lines
+224,Ultra,https://www.ultra.tech/,https://www.linkedin.com/company/ultraroboticsco/,Industrial & Warehouse Robotics,Brooklyn,United States,11-50,Warehouse robots for e-commerce order packing
+225,Ulysses,https://www.ulysses.inc,https://www.linkedin.com/company/ulysses-inc/,"Field, Inspection & Marine Robotics",San Francisco,United States,2-10,Autonomous ocean vehicles for marine stewardship
+226,UNIT AI,https://www.unitai.co/,https://www.linkedin.com/company/unitai/,Industrial & Warehouse Robotics,Boston,United States,11-50,Automated e-commerce fulfilment systems
+227,Ursa Major,https://ursamajor.com/,https://www.linkedin.com/company/ursa-major-technologies/,Aerospace & Space,Berthoud,United States,201-500,Rocket engines and solid rocket motors
+228,Varda Space Industries,http://varda.com,https://www.linkedin.com/company/varda-space-industries/,Aerospace & Space,El Segundo,United States,51-200,In-space manufacturing and re-entry capsules
+229,Vast,https://www.vastspace.com,https://www.linkedin.com/company/vastspace/,Aerospace & Space,Long Beach,United States,"501-1,000",Commercial space stations
+230,Vayu Robotics,http://www.vayurobotics.com/,https://www.linkedin.com/company/vayu-robotics/,Autonomous Vehicles,Palo Alto,United States,2-10,Low-cost autonomous delivery robots and foundation models
+231,Vecna Robotics,https://www.vecnarobotics.com/,https://www.linkedin.com/company/vecna-robotics/,Industrial & Warehouse Robotics,Waltham,United States,51-200,Autonomous forklifts and tuggers
+232,Verdant Robotics,https://www.verdantrobotics.com/,https://www.linkedin.com/company/verdantrobotics/,Agri-automation,Hayward,United States,11-50,Precision weeding and spraying robots
+233,Viam,https://www.viam.com/,https://www.linkedin.com/company/viaminc/,Robotics AI & Software,New York,United States,51-200,Software platform for building smart machines
+234,Vicarious Surgical,https://www.vicarioussurgical.com/,https://www.linkedin.com/company/vicarious-surgical/,Medical & Rehab Robotics,Waltham,United States,51-200,Miniaturised surgical robotics with VR
+235,Virtual Incision,https://virtualincision.com/,https://www.linkedin.com/company/virtual-incision-corporation/,Medical & Rehab Robotics,"Lincoln, NE",United States,11-50,Miniaturised robot-assisted surgery
+236,Walden Robotics,https://waldenrobotics.com,https://www.linkedin.com/company/waldenrobotics/,Humanoid & General-purpose Robots,"Cambridge, MA",United States,51-200,General-purpose robots for industrial work
+237,Waymo,https://waymo.com/,https://www.linkedin.com/company/waymo/,Autonomous Vehicles,Mountain View,United States,"1,001-5,000",Autonomous ride-hailing (Alphabet)
+238,Wing,https://wing.com/,https://www.linkedin.com/company/wing/,Drones & UAVs,Palo Alto,United States,51-200,Drone delivery (Alphabet)
+239,Wisk Aero,https://wisk.aero/,https://www.linkedin.com/company/wisk-aero/,Aerospace & Space,Mountain View,United States,"501-1,000",Autonomous electric air taxis (Boeing)
+240,Zipline,https://www.zipline.com/,https://www.linkedin.com/company/flyzipline/,Drones & UAVs,South San Francisco,United States,"1,001-5,000",Autonomous delivery drones
+241,Zoox,https://zoox.com/,https://www.linkedin.com/company/zoox-inc/,Autonomous Vehicles,Foster City,United States,"1,001-5,000",Purpose-built robotaxis (Amazon)
+242,Cambridge Aerospace,https://cambridgeaerospace.com/,https://www.linkedin.com/company/cambridgeaerospace/,Defence Autonomy,Cambridge,United Kingdom,51-200,Low-cost interceptor missiles for air defence
+243,CMR Surgical,https://cmrsurgical.com/,https://www.linkedin.com/company/cmrsurgical/,Medical & Rehab Robotics,Cambridge,United Kingdom,201-500,Versius surgical robot
+244,Cyberhawk,https://thecyberhawk.com/,https://www.linkedin.com/company/cyberhawk-innovations/,Drones & UAVs,Edinburgh,United Kingdom,201-500,Drone inspection and asset-data software
+245,Dexory,http://dexory.com,https://www.linkedin.com/company/dexory/,Industrial & Warehouse Robotics,Wallingford,United Kingdom,201-500,Autonomous warehouse inventory-scanning robots
+246,Dronamics,https://www.dronamics.com/,https://www.linkedin.com/company/dronamics/,Drones & UAVs,London,United Kingdom,51-200,Long-range cargo drones
+247,Engineered Arts,https://engineeredarts.com/,https://www.linkedin.com/company/engineered-arts-ltd/,Humanoid & General-purpose Robots,Falmouth,United Kingdom,51-200,Ameca humanoid robots
+248,Extend Robotics,http://www.extendrobotics.com/,https://www.linkedin.com/company/extend-robotics/,Robotics AI & Software,London,United Kingdom,11-50,VR teleoperation and data for robots
+249,Fieldwork Robotics,https://fieldworkrobotics.com/,https://www.linkedin.com/company/fwr-ltd/,Agri-automation,Cambridge,United Kingdom,11-50,Soft-fruit harvesting robots
+250,HonuWorx,http://www.honuworx.com/,https://www.linkedin.com/company/honuworx/,"Field, Inspection & Marine Robotics",Aberdeen,United Kingdom,11-50,Subsea robotics motherships and ROVs
+251,Humanoid,https://thehumanoid.ai/,https://www.linkedin.com/company/humanoidai/,Humanoid & General-purpose Robots,London,United Kingdom,201-500,General-purpose humanoid robots for industrial work
+252,Isembard,https://isembard.com/,https://www.linkedin.com/company/isembard/,Automated Manufacturing,London,United Kingdom,51-200,AI-powered distributed precision manufacturing
+253,Machenta,https://www.machenta.com,https://www.linkedin.com/company/machenta/,Robotics AI & Software,London,United Kingdom,11-50,Instant robot learning software
+254,Magdrive,http://www.magdrive.space/,https://www.linkedin.com/company/magdrive-ltd/,Aerospace & Space,Harwell,United Kingdom,11-50,Plasma thrusters for satellites
+255,Muddy Machines,http://www.muddymachines.com/,https://www.linkedin.com/company/muddymachines/,Agri-automation,London,United Kingdom,11-50,Autonomous vegetable-harvesting robots
+256,Ocado Group,https://www.ocadogroup.com,https://www.linkedin.com/company/ocadogroup/,Industrial & Warehouse Robotics,Hatfield,United Kingdom,"10,001+",Robotic grocery fulfilment technology
+257,Ocean Infinity,https://oceaninfinity.com/,https://www.linkedin.com/company/ocean-infinity-llc/,"Field, Inspection & Marine Robotics",London,United Kingdom,"501-1,000",Uncrewed robotic ships and seabed survey
+258,Open Cosmos,http://www.open-cosmos.com,https://www.linkedin.com/company/opencosmos/,Aerospace & Space,Harwell,United Kingdom,201-500,Satellite missions and data services
+259,Orbex,http://www.orbex.space,https://www.linkedin.com/company/orbital-express-launch-limited/,Aerospace & Space,Forres,United Kingdom,51-200,Small-satellite launch vehicles
+260,Oxa,https://oxa.tech/,https://www.linkedin.com/company/oxauniversalautonomy/,Autonomous Vehicles,Oxford,United Kingdom,201-500,Autonomous driving software for industrial vehicles
+261,Oxford Space Systems,http://www.oxford.space/,https://www.linkedin.com/company/oxford-space-systems/,Aerospace & Space,Harwell,United Kingdom,51-200,Deployable antennas for satellites
+262,Q-Bot,http://www.q-bot.co/,https://www.linkedin.com/company/q-bot-ltd/,Construction Robotics,London,United Kingdom,11-50,Robots that insulate underfloor spaces
+263,sees.ai,https://www.sees.ai/,https://www.linkedin.com/company/sees-ai/,Drones & UAVs,Chichester,United Kingdom,11-50,Remote autonomous drone operations for industry
+264,Shadow Robot Company,https://shadowrobot.com/,https://www.linkedin.com/company/shadow-robot-company/,Robot Components & Sensors,London,United Kingdom,11-50,Dexterous robotic hands
+265,Skyports,https://skyports.net/,https://www.linkedin.com/company/skyports/,Drones & UAVs,London,United Kingdom,51-200,Drone delivery services and vertiports
+266,Skyrora,http://www.skyrora.com/,https://www.linkedin.com/company/skyrora-limited/,Aerospace & Space,Cumbernauld,United Kingdom,51-200,Small launch vehicles
+267,UFORCE,https://www.uforce.com,https://www.linkedin.com/company/uforce-global/,Defence Autonomy,London,United Kingdom,"501-1,000",Defence drones and unmanned systems
+268,Vertical Aerospace,http://www.vertical-aerospace.com/,https://www.linkedin.com/company/vertical-aerospace-ltd/,Aerospace & Space,Bristol,United Kingdom,201-500,Electric VTOL aircraft
+269,Wayve,https://wayve.ai/,https://www.linkedin.com/company/wayve-technologies/,Autonomous Vehicles,London,United Kingdom,"1,001-5,000",Embodied AI for self-driving cars
+270,Agile Robots,https://agile-robots.com/,https://www.linkedin.com/company/agile-robots-se/,Industrial & Warehouse Robotics,Munich,Germany,"1,001-5,000",Intelligent robot arms and automation for manufacturing
+271,Alpine Eagle,https://alpineeagle.com/,https://www.linkedin.com/company/alpineeagle/,Defence Autonomy,Munich,Germany,51-200,Airborne counter-drone interceptor systems
+272,ARX Robotics,http://www.arx-robotics.com,https://www.linkedin.com/company/arx-robotics/,Defence Autonomy,Munich,Germany,201-500,Modular unmanned ground vehicles for defence
+273,Athenyx Robotics,https://athenyxrobotics.com,https://www.linkedin.com/company/athenyxrobotics/,Robotics AI & Software,Munich,Germany,2-10,Software stack deploying foundation models on industrial robots
+274,Beckhoff Automation,https://www.beckhoff.com/,,Industrial Automation,Verl,Germany,,"PC-based controls, drives and motion systems"
+275,Blickfeld,https://www.blickfeld.com/,https://www.linkedin.com/company/blickfeld-gmbh/,Robot Components & Sensors,Munich,Germany,11-50,Lidar sensors
+276,Bosch Rexroth,https://www.boschrexroth.com/,https://www.linkedin.com/company/bosch-rexroth/,Industrial Automation,Lohr am Main,Germany,"10,001+","Drives, controls, linear motion and hydraulics"
+277,Circus SE,https://www.circus-group.com/,https://www.linkedin.com/company/circuskitchens/,Service & Consumer Robots,Hamburg,Germany,,AI-powered autonomous cooking robots
+278,Evasive Robotics,https://www.evasive-robotics.com,https://www.linkedin.com/company/evasiverobotics/,Industrial & Warehouse Robotics,Dresden,Germany,2-10,Space-saving multi-robot cells for assembly and palletizing
+279,FENKA Robotics,https://www.fenka.de,https://www.linkedin.com/company/fenkarobotics/,Service & Consumer Robots,Berlin,Germany,51-200,Cleaning robots for professional building services
+280,Fernride,http://www.fernride.com/,https://www.linkedin.com/company/fernride/,Autonomous Vehicles,Munich,Germany,51-200,Autonomous electric terminal tractors
+281,Festo,http://www.festo.com/,https://www.linkedin.com/company/festo/,Industrial Automation,Esslingen,Germany,"10,001+",Pneumatic and electric automation technology
+282,Filics,http://www.filics.eu,https://www.linkedin.com/company/filics/,Industrial & Warehouse Robotics,Munich,Germany,51-200,Autonomous pallet-moving robots
+283,Franka Robotics,https://franka.de/,https://www.linkedin.com/company/frankarobotics/,Research & Education Robots,Munich,Germany,51-200,Force-sensitive robot arms for research
+284,HARTING,http://www.harting.com,https://www.linkedin.com/company/harting/,Robot Components & Sensors,Espelkamp,Germany,"5,001-10,000",Industrial connectors for automation and machines
+285,Helsing,http://www.helsing.ai/,https://www.linkedin.com/company/helsing/,Defence Autonomy,Munich,Germany,"1,001-5,000",Defence AI and strike drones
+286,ifm electronic,https://ifm.com/,https://www.linkedin.com/company/ifm/,Robot Components & Sensors,Essen,Germany,"5,001-10,000","Sensors, IO-Link and vision sensors"
+287,igus,https://www.igus.eu/,https://www.linkedin.com/company/igus-gmbh/,Robot Components & Sensors,Cologne,Germany,,Motion plastics and low-cost robot components
+288,Isar Aerospace,https://isaraerospace.com/,https://www.linkedin.com/company/isaraerospace/,Aerospace & Space,Ottobrunn,Germany,201-500,Small orbital launch vehicles
+289,ISPTech,https://www.isptech.space/,https://www.linkedin.com/company/inspacepropulsion-technologies-isptech/,Aerospace & Space,Ludwigsburg,Germany,11-50,In-space propulsion systems
+290,Jungheinrich,https://www.jungheinrich.com/,https://www.linkedin.com/company/jungheinrich-ag/,Industrial & Warehouse Robotics,Hamburg,Germany,"10,001+","Intralogistics, automated forklifts and AGVs"
+291,Korial,https://www.korial.com/,https://www.linkedin.com/company/korialhq/,Robotics AI & Software,Darmstadt,Germany,51-200,"AI operating layer for robots, drones and sensors"
+292,KUKA,https://www.kuka.com/,https://www.linkedin.com/company/kukaglobal/,Industrial & Warehouse Robotics,Augsburg,Germany,"10,001+",Industrial robots and automation systems
+293,Körber (Supply Chain),https://www.koerber.com/,,Industrial & Warehouse Robotics,Hamburg,Germany,,"Warehouse automation: ASRS, shuttles and AGVs"
+294,Kübler Group,https://www.kuebler.com/,https://www.linkedin.com/company/kuebler-group/,Robot Components & Sensors,Villingen-Schwenningen,Germany,"501-1,000","Encoders, inclinometers and slip rings"
+295,Lentil Robotics,https://www.lentilrobotics.com/,https://www.linkedin.com/company/lentil-robotics/,Robotics AI & Software,Schönefeld,Germany,2-10,Robot vision for flexible manufacturing automation
+296,Lenze,https://www.lenze.com/,,Industrial Automation,Aerzen,Germany,,"Drives, motors and motion controllers"
+297,Magazino,https://www.magazino.eu/,https://www.linkedin.com/company/magazino-gmbh/,Industrial & Warehouse Robotics,Munich,Germany,,Autonomous picking robots (Jungheinrich)
+298,Micropsi Industries,http://www.micropsi-industries.com,https://www.linkedin.com/company/micropsi-industries/,Robotics AI & Software,Berlin,Germany,51-200,AI vision control for industrial robots
+299,Nature Robots,https://naturerobots.com,https://www.linkedin.com/company/nature-robots/,Agri-automation,Osnabrück,Germany,11-50,Autonomous field robots for agriculture
+300,NEURA Robotics,https://neura-robotics.com/,https://www.linkedin.com/company/neura-robotics/,Humanoid & General-purpose Robots,Metzingen,Germany,"501-1,000",Cognitive cobots and humanoid robots
+301,Nucleus,https://nucleuslab.ai/,https://www.linkedin.com/company/nucleus-robotics-ai/,Humanoid & General-purpose Robots,Gütersloh,Germany,11-50,Deploys humanoid robots in factories
+302,OHB,https://www.ohb.de/,https://www.linkedin.com/company/ohb-se/,Aerospace & Space,Bremen,Germany,"1,001-5,000",Satellites and space systems
+303,Pepperl+Fuchs,https://www.pepperl-fuchs.com/,https://www.linkedin.com/company/pepperl-fuchs-group/,Robot Components & Sensors,Mannheim,Germany,"5,001-10,000",Industrial sensors and explosion protection
+304,Phoenix Contact,https://www.phoenixcontact.com/,https://www.linkedin.com/company/phoenix-contact/,Industrial Automation,Blomberg,Germany,"10,001+","Industrial automation, controllers and connection technology"
+305,Pilz,https://pilz.com/,https://www.linkedin.com/company/pilz/,Robot Components & Sensors,Ostfildern,Germany,"1,001-5,000",Safety controllers and safety sensors for machines
+306,Quantum Systems,https://quantum-systems.com/,https://www.linkedin.com/company/quantum-systems-gmbh/,Drones & UAVs,Gilching,Germany,"1,001-5,000",eVTOL reconnaissance drones
+307,Rittal,http://www.rittal.com,https://www.linkedin.com/company/rittal/,Industrial Automation,Herborn,Germany,"10,001+","Industrial enclosures, climate control and automation systems"
+308,RobCo,https://www.rob.co/,https://www.linkedin.com/company/robco-therobotcompany/,Industrial & Warehouse Robotics,Munich,Germany,51-200,Modular robot arms and automation cells
+309,Roboception,https://roboception.com/,https://www.linkedin.com/company/roboception-gmbh/,Robot Components & Sensors,Munich,Germany,11-50,3D vision sensors for robots
+310,Rocket Factory Augsburg,https://www.rfa.space/,https://www.linkedin.com/company/rfa-space/,Aerospace & Space,Augsburg,Germany,201-500,Small orbital launch vehicles
+311,Schmalz,https://www.schmalz.com/,https://www.linkedin.com/company/schmalz/,Robot Components & Sensors,Glatten,Germany,"1,001-5,000",Vacuum grippers and handling systems
+312,SCHUNK,https://schunk.com/,https://www.linkedin.com/company/schunkintecusa/,Robot Components & Sensors,Lauffen am Neckar,Germany,"1,001-5,000","Grippers, clamping and robot end-effectors"
+313,sensmore,https://www.sensmore.ai/,https://www.linkedin.com/company/sensmore/,Robotics AI & Software,Berlin,Germany,11-50,AI autonomy for heavy machinery
+314,Sereact,https://sereact.ai,https://www.linkedin.com/company/sereact/,Robotics AI & Software,Stuttgart,Germany,51-200,AI software for robotic picking in intralogistics
+315,Sewts,https://www.sewts.com/,https://www.linkedin.com/company/sewts/,Industrial & Warehouse Robotics,Munich,Germany,11-50,Robots for handling textiles and laundry
+316,SICK,http://www.sick.com,https://www.linkedin.com/company/sicksensorintelligence/,Robot Components & Sensors,Waldkirch,Germany,"10,001+","Sensors, lidar and safety systems for automation"
+317,Siemens,https://www.siemens.com/,https://www.linkedin.com/company/siemens/,Industrial Automation,Munich,Germany,"10,001+","Factory automation, drives and industrial software"
+318,STARK,https://stark-defence.com/en,https://www.linkedin.com/company/stark-defence/,Defence Autonomy,Berlin,Germany,"501-1,000",AI loitering drones and unmanned surface vessels
+319,SWARM Biotactics,https://www.swarm-biotactics.com/,https://www.linkedin.com/company/swarm-biotactics/,Defence Autonomy,Kassel,Germany,51-200,Bio-robotic insect swarms for defence reconnaissance
+320,The Exploration Company,https://www.exploration.space/,https://www.linkedin.com/company/exploration-company/,Aerospace & Space,Gauting,Germany,"501-1,000",Reusable space capsules for cargo
+321,Turck,https://turck.com/,https://www.linkedin.com/company/turck/,Robot Components & Sensors,Mülheim an der Ruhr,Germany,"1,001-5,000",Industrial sensors and connectivity
+322,Twentyfour Industries,https://www.twentyfour.industries,https://www.linkedin.com/company/24industries/,Drones & UAVs,Munich,Germany,11-50,European defence drones
+323,Tytan Technologies,https://www.tytan-technologies.com/,https://www.linkedin.com/company/tytan-technologies/,Defence Autonomy,Munich,Germany,51-200,Interceptor drones for counter-UAS
+324,Unchained Robotics,https://www.unchainedrobotics.de/,https://www.linkedin.com/company/unchained-robotics/,Industrial & Warehouse Robotics,Paderborn,Germany,51-200,Platform to source and deploy factory robots
+325,Vay,https://vay.io/,https://www.linkedin.com/company/vaytechnology/,Autonomous Vehicles,Berlin,Germany,201-500,Teledriven car rental service
+326,WAGO,http://www.wago.com/in,https://www.linkedin.com/company/wagoindia/,Industrial Automation,Minden,Germany,201-500,"Industrial connectors, controllers and automation components"
+327,Wandelbots,http://www.wandelbots.com,https://www.linkedin.com/company/wandelbots/,Robotics AI & Software,Dresden,Germany,51-200,No-code robot programming software
+328,Weidmüller,https://www.weidmueller.de,https://www.linkedin.com/company/weidmueller-group/,Industrial Automation,Detmold,Germany,"5,001-10,000",Industrial connectivity and automation products
+329,Wingcopter,https://wingcopter.com/,https://www.linkedin.com/company/wingcopter/,Drones & UAVs,Weiterstadt,Germany,51-200,eVTOL delivery drones
+330,Alta Ares,http://www.altaares.com,https://www.linkedin.com/company/alta-ares/,Defence Autonomy,Paris,France,51-200,AI for defence drones and air defence
+331,Ascendance Flight Technologies,https://www.ascendance-ft.com/,https://www.linkedin.com/company/ascendance-ft/,Aerospace & Space,Toulouse,France,51-200,Hybrid-electric VTOL aircraft
+332,Bleu Robotics,https://www.bleu-robotics.com,https://www.linkedin.com/company/bleu-robotics/,Robotics AI & Software,Paris,France,2-10,AI software for deploying robots in factories and warehouses
+333,Delair,https://delair.aero/,https://www.linkedin.com/company/delair-tech/,Drones & UAVs,Toulouse,France,51-200,Fixed-wing drones for defence and mapping
+334,Diodon Drone Technology,http://www.diodon-drone.com/,https://www.linkedin.com/company/diodon-drone-technology/,Drones & UAVs,Toulouse,France,11-50,Inflatable maritime drones
+335,EasyMile,https://easymile.com/,https://www.linkedin.com/company/easymile/,Autonomous Vehicles,Toulouse,France,51-200,Driverless tractors and industrial autonomy
+336,Enchanted Tools,https://enchanted.tools,https://www.linkedin.com/company/enchantedtools/,Service & Consumer Robots,Paris,France,51-200,Mirokaï service robots for hospitals
+337,Exail,https://www.exail.com/,https://www.linkedin.com/company/exail/,"Field, Inspection & Marine Robotics",Paris,France,"1,001-5,000","Marine robotics, navigation and drones"
+338,Exotec,https://www.exotec.com/,https://www.linkedin.com/company/exotec/,Industrial & Warehouse Robotics,Wasquehal,France,"1,001-5,000",Skypod robotic warehouse systems
+339,Genesis AI,https://genesis.ai,https://www.linkedin.com/company/gs-ai/,Robotics AI & Software,Paris,France,51-200,Physics simulation and AI for robotics
+340,Harmattan AI,https://harmattan.ai/,https://www.linkedin.com/company/harmattan-ai/,Defence Autonomy,Paris,France,201-500,Autonomous defence drones and software
+341,Latitude,https://www.latitude.eu/,https://www.linkedin.com/company/latitude-eu/,Aerospace & Space,Reims,France,51-200,Small launch vehicles
+342,Moon Surgical,https://moonsurgical.com/,https://www.linkedin.com/company/moonsurgical/,Medical & Rehab Robotics,Paris,France,51-200,Maestro surgical assistant robot
+343,Naïo Technologies,https://www.naio-technologies.com/,https://www.linkedin.com/company/na-o-technologies/,Agri-automation,Toulouse,France,,Autonomous farm robots for weeding
+344,Nio Robotics,https://www.nio-robotics.com/,https://www.linkedin.com/company/nio-robotics/,"Field, Inspection & Marine Robotics",Toulouse,France,11-50,Reconfigurable robots for industrial maintenance
+345,Niryo,https://niryo.com,https://www.linkedin.com/company/niryo/,Research & Education Robots,Lille,France,51-200,Educational and light industrial robot arms
+346,Parrot,https://www.parrot.com/,https://www.linkedin.com/company/parrot/,Drones & UAVs,Paris,France,"501-1,000",Professional and defence drones
+347,Schneider Electric,https://se.com/,https://www.linkedin.com/company/schneider-electric/,Industrial Automation,Rueil-Malmaison,France,"10,001+",Industrial automation and energy management
+348,Thales,http://www.thalesgroup.com/,https://www.linkedin.com/company/thales/,Aerospace & Space,Meudon,France,"10,001+","Aerospace, defence and space systems"
+349,Unseenlabs,https://unseenlabs.space/,https://www.linkedin.com/company/unseenlabs/,Aerospace & Space,Rennes,France,51-200,RF-detection satellites for maritime surveillance
+350,Wandercraft,http://www.wandercraft.eu,https://www.linkedin.com/company/wandercraft/,Medical & Rehab Robotics,Paris,France,51-200,Self-balancing walking exoskeletons
+351,ABB,https://new.abb.com/,https://www.linkedin.com/company/abb/,Industrial & Warehouse Robotics,Zurich,Switzerland,"10,001+","Industrial robots, drives and automation"
+352,ANYbotics,http://www.anybotics.com/,https://www.linkedin.com/company/anybotics/,"Field, Inspection & Marine Robotics",Zurich,Switzerland,51-200,ANYmal legged inspection robots
+353,Baumer,https://www.baumer.com/,https://www.linkedin.com/company/baumer-group/,Robot Components & Sensors,Frauenfeld,Switzerland,"1,001-5,000",Sensors and encoders for factory automation
+354,Distalmotion,http://www.distalmotion.com/,https://www.linkedin.com/company/distalmotion/,Medical & Rehab Robotics,Epalinges,Switzerland,201-500,Dexter surgical robot
+355,Ecorobotix,https://ecorobotix.com/,https://www.linkedin.com/company/ecorobotix/,Agri-automation,Yverdon-les-Bains,Switzerland,201-500,AI plant-by-plant precision spraying
+356,Embodied AI,https://embodiedai.ch/home,https://www.linkedin.com/company/embodiedai/,Industrial & Warehouse Robotics,Lausanne,Switzerland,11-50,Robots automating repetitive manual work
+357,Embotech,https://embotech.ai/,https://www.linkedin.com/company/embotech/,Autonomous Vehicles,Zurich,Switzerland,51-200,Autonomous driving software for logistics yards
+358,Enact,https://enact-intelligence.com/,https://www.linkedin.com/company/enact-intelligence/,Humanoid & General-purpose Robots,Zurich,Switzerland,11-50,Force-aware dexterous physical AI robots
+359,Exclaim Robotics,https://exclaimrobotics.com,https://www.linkedin.com/company/exclaim-robotics/,Industrial & Warehouse Robotics,Zürich,Switzerland,2-10,Robots that maintain AI data-centre racks
+360,Fixposition,https://www.fixposition.com/,https://www.linkedin.com/company/fixposition/,Robot Components & Sensors,Zurich,Switzerland,11-50,Precise positioning sensors for robots
+361,Flexion,https://flexion.ai,https://www.linkedin.com/company/flexion-ai/,Robotics AI & Software,Zurich,Switzerland,11-50,Autonomy software for humanoid robots
+362,Flyability,https://www.flyability.com/,https://www.linkedin.com/company/flyability/,Drones & UAVs,Lausanne,Switzerland,51-200,Collision-tolerant drones for confined spaces
+363,FORGIS,https://www.forgis.com/,https://www.linkedin.com/company/forgisai/,Robotics AI & Software,Schlieren,Switzerland,11-50,AI platform for factory automation
+364,Gravis Robotics,https://www.gravisrobotics.com/,https://www.linkedin.com/company/gravisrobotics/,Construction Robotics,Zürich,Switzerland,51-200,Retrofit kits that make excavators autonomous
+365,Grip,https://www.griprobotics.ai/,https://www.linkedin.com/company/griprobotics/,Industrial & Warehouse Robotics,Zürich,Switzerland,2-10,Robots for waste sorting and recycling
+366,Hexagon Robotics,https://robotics.hexagon.com/,https://www.linkedin.com/company/hexagon-robotics/,Humanoid & General-purpose Robots,Zurich,Switzerland,51-200,AEON humanoid and industrial robotics
+367,Jaipur Robotics,https://jaipurrobotics.com/,https://www.linkedin.com/company/jaipurrobotics/,Industrial Automation,Manno,Switzerland,2-10,Vision AI for waste-to-energy plant automation
+368,LOXO,https://www.loxo.ch/,https://www.linkedin.com/company/loxo1/,Autonomous Vehicles,Bern,Switzerland,11-50,Autonomous delivery vehicles
+369,mimic,https://www.mimicrobotics.com/,https://www.linkedin.com/company/mimicrobotics/,Humanoid & General-purpose Robots,Zurich,Switzerland,11-50,Dexterous robotic hands and AI
+370,Rigitech,https://rigi.tech/,https://www.linkedin.com/company/rigi-tech/,Drones & UAVs,Prilly,Switzerland,11-50,Long-range delivery drones
+371,Sevensense Robotics,https://www.sevensense.ai/,https://www.linkedin.com/company/sevensense-robotics/,Robotics AI & Software,Zurich,Switzerland,11-50,Visual navigation for mobile robots (ABB)
+372,Stäubli,https://www.staubli.com/,https://www.linkedin.com/company/staubli/,Industrial & Warehouse Robotics,Pfäffikon,Switzerland,"5,001-10,000","Industrial robots, connectors and textile machinery"
+373,Swisslog,https://www.swisslog.com/,https://www.linkedin.com/company/swisslog/,Industrial & Warehouse Robotics,Buchs,Switzerland,"1,001-5,000",Warehouse and healthcare automation (KUKA)
+374,SWISSto12,https://swissto12.com/,https://www.linkedin.com/company/swissto12-sa/,Aerospace & Space,Renens,Switzerland,201-500,Small geostationary satellites and RF hardware
+375,Tethys Robotics,https://www.tethys-robotics.ch/,https://www.linkedin.com/company/tethys-robotics/,"Field, Inspection & Marine Robotics",Zurich,Switzerland,11-50,Underwater drones for inspection
+376,Theseus Robotics,https://theseus.bot/,https://www.linkedin.com/company/theseus-robot/,Humanoid & General-purpose Robots,Zürich,Switzerland,2-10,Software turning humanoids into supermarket restocking robots
+377,Verity,https://www.verity.net/,https://www.linkedin.com/company/verity-ag/,Drones & UAVs,Zurich,Switzerland,51-200,Autonomous inventory drones for warehouses
+378,Voliro,https://voliro.com,https://www.linkedin.com/company/voliro-ch/,Drones & UAVs,Zurich,Switzerland,11-50,Contact-inspection drones
+379,Wingtra,https://wingtra.com,https://www.linkedin.com/company/wingtra/,Drones & UAVs,Zurich,Switzerland,51-200,VTOL mapping drones
+380,Avular,https://avular.com/,https://www.linkedin.com/company/avular/,Industrial & Warehouse Robotics,Eindhoven,Netherlands,51-200,Mobile robots and drones for industry
+381,Fizyr,https://www.fizyr.com/,https://www.linkedin.com/company/fizyr/,Robotics AI & Software,Delft,Netherlands,11-50,Vision AI for robotic picking
+382,ISISPACE,https://isispace.nl/,https://www.linkedin.com/company/isis---innovative-solutions-in-space-bv/,Aerospace & Space,Delft,Netherlands,51-200,Small satellites and CubeSat components
+383,Lely,https://www.lely.com/,https://www.linkedin.com/company/lely-industries-nv/,Agri-automation,Maassluis,Netherlands,"1,001-5,000",Robotic milking and dairy-farm automation
+384,Logiqs,https://logiqs.nl/,https://www.linkedin.com/company/logiqs-automation/,Industrial & Warehouse Robotics,Maasdijk,Netherlands,51-200,Automated pallet storage systems
+385,Lowpad,https://lowpad.com,https://www.linkedin.com/company/lowpad/,Industrial & Warehouse Robotics,Bleskensgraaf,Netherlands,51-200,Low-profile AMRs for warehouses
+386,Smart Robotics,https://smart-robotics.io/,https://www.linkedin.com/company/smart-robotics/,Industrial & Warehouse Robotics,Best,Netherlands,11-50,Robotic pick-and-place for logistics
+387,Vanderlande,https://www.vanderlande.com/,https://www.linkedin.com/company/vanderlande-industries/,Industrial & Warehouse Robotics,Veghel,Netherlands,,"Warehouse, parcel and airport baggage automation"
+388,120ft,https://120ft.com,https://www.linkedin.com/company/120ft/,Automated Manufacturing,Stockholm,Sweden,2-10,Robotic assembly in modular container factories
+389,Cognibotics,http://cognibotics.com/,https://www.linkedin.com/company/cognibotics-ab/,Industrial & Warehouse Robotics,Lund,Sweden,11-50,High-speed robot arms and calibration
+390,Deep Forestry,http://deepforestry.com,https://www.linkedin.com/company/deep-forestry/,Drones & UAVs,Uppsala,Sweden,11-50,Drone and robot forest inventory
+391,Einride,https://www.einride.tech,https://www.linkedin.com/company/einride/,Autonomous Vehicles,Stockholm,Sweden,201-500,Autonomous electric freight trucks
+392,Saab,https://www.saab.com/,https://www.linkedin.com/company/saab/,Defence Autonomy,Stockholm,Sweden,"10,001+","Defence, aerospace and autonomous systems"
+393,Volvo Autonomous Solutions,https://www.volvoautonomoussolutions.com/,https://www.linkedin.com/company/volvo-autonomous-solutions/,Autonomous Vehicles,Gothenburg,Sweden,201-500,Autonomous trucks and transport solutions
+394,AutoStore,https://autostoresystem.com/,https://www.linkedin.com/company/autostoresystem/,Industrial & Warehouse Robotics,Nedre Vats,Norway,"1,001-5,000",Cube-based automated storage and retrieval systems
+395,Eelume,https://www.eelume.com/,https://www.linkedin.com/company/eelume/,"Field, Inspection & Marine Robotics",Trondheim,Norway,11-50,Snake-like subsea inspection robots
+396,Kongsberg,https://www.kongsberg.com/,https://www.linkedin.com/company/kongsberg/,Defence Autonomy,Kongsberg,Norway,"10,001+","Defence, maritime and autonomous underwater systems"
+397,Nordic Unmanned,https://www.nordicunmanned.com/,https://www.linkedin.com/company/nordic-unmanned/,Drones & UAVs,Sandnes,Norway,51-200,Unmanned aircraft and drone services
+398,AGROINTELLI,https://agrointelli.com/,https://www.linkedin.com/company/agrointelli/,Agri-automation,Aarhus,Denmark,2-10,Autonomous field robot Robotti
+399,Blue Ocean Robotics,https://www.blue-ocean-robotics.com/,https://www.linkedin.com/company/blue-ocean-robotics/,Service & Consumer Robots,Odense,Denmark,11-50,UV disinfection and telepresence robots
+400,Capra Robotics,https://capra.ooo,https://www.linkedin.com/company/caprarobotics/,"Field, Inspection & Marine Robotics",Viby J,Denmark,51-200,Outdoor mobile robot platforms
+401,Kassow Robots,https://www.kassowrobots.com/,https://www.linkedin.com/company/kassow-robots-aps/,Industrial & Warehouse Robotics,Kastrup,Denmark,51-200,7-axis collaborative robots
+402,Mobile Industrial Robots,https://mobile-industrial-robots.com/,https://www.linkedin.com/company/mobile-industrial-robots-aps/,Industrial & Warehouse Robotics,Odense,Denmark,201-500,Autonomous mobile robots for intralogistics
+403,OnRobot,https://onrobot.com/,https://www.linkedin.com/company/onrobot/,Robot Components & Sensors,Odense,Denmark,51-200,Grippers and tools for collaborative robots
+404,Universal Robots,https://www.universal-robots.com/,https://www.linkedin.com/company/universal-robots-a-s/,Industrial & Warehouse Robotics,Odense,Denmark,"1,001-5,000",Collaborative robot arms
+405,ICEYE,https://www.iceye.com/,https://www.linkedin.com/company/iceye/,Aerospace & Space,Espoo,Finland,"1,001-5,000",SAR imaging satellite constellation
+406,Kuva Space,https://kuvaspace.com/,https://www.linkedin.com/company/kuva-space/,Aerospace & Space,Espoo,Finland,11-50,Hyperspectral microsatellites
+407,ReOrbit,https://www.reorbit.space/,https://www.linkedin.com/company/reorbit/,Aerospace & Space,Helsinki,Finland,51-200,Software-first satellites
+408,AGILOX,https://agilox.net/en,https://www.linkedin.com/company/agilox/,Industrial & Warehouse Robotics,Neukirchen bei Lambach,Austria,201-500,Autonomous mobile robots and forklifts
+409,Schiebel,https://schiebel.net/,https://www.linkedin.com/company/schiebel/,Defence Autonomy,Vienna,Austria,201-500,Camcopter unmanned helicopters
+410,Aerospacelab,https://www.aerospacelab.com/,https://www.linkedin.com/company/aerospacelab/,Aerospace & Space,Charleroi,Belgium,201-500,Satellites and satellite manufacturing
+411,Robovision,https://robovision.ai,https://www.linkedin.com/company/robovisionai/,Robotics AI & Software,Ghent,Belgium,51-200,Vision AI for robotics and automation
+412,EnduroSat,https://www.endurosat.com,https://www.linkedin.com/company/endurosat/,Aerospace & Space,Sofia,Bulgaria,201-500,Nanosatellites and space services
+413,Integra Robotics (Czechia),https://integrarobotics.cz/,https://www.linkedin.com/company/integrarobotics/,Humanoid & General-purpose Robots,,Czechia,2-10,Deploys humanoid robots in industry
+414,Cleveron,http://www.cleveron.com,https://www.linkedin.com/company/cleveron-robots/,Industrial & Warehouse Robotics,Viljandi,Estonia,51-200,Robotic parcel terminals and click-and-collect
+415,Milrem Robotics,https://milremrobotics.com/,https://www.linkedin.com/company/milremrobotics/,Defence Autonomy,Tallinn,Estonia,201-500,Unmanned ground vehicles for defence
+416,Rollo Robotics,https://1rollo.com/,https://www.linkedin.com/company/rollo-robotics/,"Field, Inspection & Marine Robotics",Viljandi,Estonia,11-50,Monowheel security patrol robots
+417,Starship Technologies,https://www.starship.xyz/,https://www.linkedin.com/company/starshiptechnologies/,Service & Consumer Robots,Tallinn,Estonia,201-500,Autonomous sidewalk delivery robots
+418,Akara Robotics,https://www.akara.ai/,https://www.linkedin.com/company/akara-ai/,Service & Consumer Robots,Dublin,Ireland,11-50,Robots and AI for hospital operations
+419,Manna,https://www.manna.aero/,https://www.linkedin.com/company/mannaaero/,Drones & UAVs,Dublin,Ireland,51-200,Suburban drone delivery
+420,BionIT Labs,http://www.bionitlabs.com,https://www.linkedin.com/company/bionitlabs/,Medical & Rehab Robotics,Soleto,Italy,51-200,Bionic prosthetic hands
+421,Comau,https://www.comau.com/,https://www.linkedin.com/company/comau/,Industrial & Warehouse Robotics,Grugliasco,Italy,"1,001-5,000",Industrial robots and automation systems
+422,D-Orbit,https://dorbit.space/,https://www.linkedin.com/company/d-orbit/,Aerospace & Space,Fino Mornasco,Italy,201-500,In-orbit transport and satellite logistics
+423,Generative Bionics,https://gbionics.ai,https://www.linkedin.com/company/generative-bionics/,Humanoid & General-purpose Robots,Genoa,Italy,51-200,Humanoid robots from IIT research
+424,YK-Robotics,http://www.yk-robotics.com,https://www.linkedin.com/company/yk-robotics/,Robotics AI & Software,Pontedera,Italy,2-10,Platform to configure and program robotic cells
+425,Aether Biomedical,https://www.aetherbiomedical.com/,https://www.linkedin.com/company/aether-biomedical/,Medical & Rehab Robotics,Poznań,Poland,11-50,Bionic prosthetic hands
+426,Clone Robotics,https://clonerobotics.com/,https://www.linkedin.com/company/clonerobotics/,Humanoid & General-purpose Robots,Wrocław,Poland,51-200,Musculoskeletal humanoid robots
+427,Nomagic,https://nomagic.ai,https://www.linkedin.com/company/nomagic/,Industrial & Warehouse Robotics,Warsaw,Poland,51-200,AI robotic picking for e-commerce warehouses
+428,WB Group,https://www.wbgroup.pl/,https://www.linkedin.com/company/wbgroup/,Defence Autonomy,Ożarów Mazowiecki,Poland,"1,001-5,000",Military drones and loitering munitions
+429,Antoniq Robotics,https://www.antoniqrobotics.com/,https://www.linkedin.com/company/antoniq-robotics/,Agri-automation,Porto,Portugal,2-10,Embodied AI robots for agriculture
+430,Beyond Vision,http://www.beyond-vision.com/,https://www.linkedin.com/company/beyondvision-join-the-future/,Drones & UAVs,Alverca do Ribatejo,Portugal,51-200,Autonomous drone systems
+431,Tekever,https://www.tekever.com/,https://www.linkedin.com/company/tekever/,Defence Autonomy,Lisbon,Portugal,"1,001-5,000",Surveillance UAVs and AI
+432,Photoneo,https://www.photoneo.com/,https://www.linkedin.com/company/photoneo/,Robot Components & Sensors,Bratislava,Slovakia,51-200,3D vision and robotic bin picking
+433,PAL Robotics,https://pal-robotics.com/,https://www.linkedin.com/company/pal-robotics/,Humanoid & General-purpose Robots,Barcelona,Spain,51-200,Humanoid and mobile service robots
+434,PLD Space,http://www.pldspace.com/,https://www.linkedin.com/company/pld-space/,Aerospace & Space,Elche,Spain,201-500,Reusable launch vehicles
+435,Robotnik,https://robotnik.eu/,https://www.linkedin.com/company/robotnik-automation-sll/,Industrial & Warehouse Robotics,Valencia,Spain,,Mobile robots and manipulators
+436,THEKER Robotics,https://www.theker.eu/,https://www.linkedin.com/company/theker/,Industrial & Warehouse Robotics,Barcelona,Spain,11-50,Vision-AI industrial robots for process automation
+437,CTO Robotics,https://ctorobotics.com/,https://www.linkedin.com/company/ctorobotics-automation-systems/,Industrial Automation,Istanbul,Turkey,2-10,Vision-based counting and inspection machines
+438,Apera AI,https://apera.ai,https://www.linkedin.com/company/aperaai/,Robotics AI & Software,Vancouver,Canada,51-200,4D vision AI for robotic picking
+439,Clearpath Robotics,https://clearpathrobotics.com/,https://www.linkedin.com/company/clearpath-robotics/,Research & Education Robots,Waterloo,Canada,,Mobile robots for research (Rockwell)
+440,Forge Automation,https://www.forgeautomation.ca,https://www.linkedin.com/company/forge-automation/,Automated Manufacturing,Toronto,Canada,2-10,Automated robotic welding for fabrication shops
+441,Independent Robotics,http://www.independentrobotics.com,https://www.linkedin.com/company/independent-robotics/,"Field, Inspection & Marine Robotics",Montreal,Canada,2-10,Autonomous underwater and field robots
+442,Kepler Communications,https://kepler.space/,https://www.linkedin.com/company/kepler-communications-inc-/,Aerospace & Space,Toronto,Canada,51-200,Optical data-relay satellite network
+443,Kinova,https://www.kinovarobotics.com/,https://www.linkedin.com/company/kinova/,Industrial & Warehouse Robotics,Boisbriand,Canada,201-500,Assistive and lightweight robot arms
+444,Kraken Robotics,https://www.krakenrobotics.com/,https://www.linkedin.com/company/krakenrobotics/,"Field, Inspection & Marine Robotics",Mount Pearl,Canada,"1,001-5,000",Subsea sonar and underwater robotic systems
+445,Kuiper,https://www.kuiper-ai.com,https://www.linkedin.com/company/kuiper-ai/,Robotics AI & Software,Montreal,Canada,2-10,Human-supervised AI for heavy machine operations
+446,MDA Space,https://mda.space/,https://www.linkedin.com/company/mdaspace/,Aerospace & Space,Brampton,Canada,"1,001-5,000","Space robotics, satellites and Canadarm"
+447,Mecademic,https://www.mecademic.com,https://www.linkedin.com/company/mecademic/,Industrial & Warehouse Robotics,Montreal,Canada,51-200,Compact precision industrial robot arms
+448,Mecka,https://mecka.ai/,https://www.linkedin.com/company/mecka-ai/,Robotics AI & Software,Markham,Canada,51-200,Robotics data infrastructure for physical AI
+449,ONMIKRO,https://onmikro.com/,https://www.linkedin.com/company/onmikro/,Industrial & Warehouse Robotics,Montréal,Canada,2-10,Ultra-compact robots for micro-scale automation
+450,Sanctuary AI,https://www.sanctuary.ai/,https://www.linkedin.com/company/sanctuaryai/,Humanoid & General-purpose Robots,Vancouver,Canada,51-200,General-purpose humanoid robots
+451,Vention,https://vention.com/,https://www.linkedin.com/company/vention/,Automated Manufacturing,Montreal,Canada,201-500,Cloud-designed modular automation equipment
+452,Waabi,https://waabi.ai/,https://www.linkedin.com/company/waabi/,Autonomous Vehicles,Toronto,Canada,51-200,Generative-AI autonomous trucking
+453,Bluewhite,https://www.bluewhite.ai/,https://www.linkedin.com/company/bluewhite/,Agri-automation,Tel Aviv,Israel,51-200,Autonomous tractor kits for orchards
+454,Flytrex,http://www.flytrex.com/,https://www.linkedin.com/company/flytrex/,Drones & UAVs,Tel Aviv,Israel,51-200,Backyard drone delivery
+455,Indoor Robotics,http://www.indoor-robotics.com,https://www.linkedin.com/company/indoorrobotics/,Drones & UAVs,Ramat Gan,Israel,11-50,Autonomous indoor security drones
+456,Mentee Robotics,https://menteebot.com/,https://www.linkedin.com/company/mentee-robotics/,Humanoid & General-purpose Robots,Herzliya,Israel,51-200,MenteeBot humanoid robots
+457,Mobileye,https://www.mobileye.com,https://www.linkedin.com/company/mobileye/,Autonomous Vehicles,Jerusalem,Israel,"1,001-5,000",Driver-assist and self-driving systems
+458,Momentis Surgical,https://www.momentissurgical.com/,https://www.linkedin.com/company/momentis-surgical/,Medical & Rehab Robotics,Or Yehuda,Israel,51-200,Surgical robotic systems
+459,Tevel Aerobotics,https://www.tevel-tech.com/,https://www.linkedin.com/company/tevel-aerobotics-technologies/,Agri-automation,Gedera,Israel,51-200,Flying fruit-picking robots
+460,Astroscale,https://www.astroscale.com/,https://www.linkedin.com/company/astroscale/,Aerospace & Space,Tokyo,Japan,"501-1,000",Space debris removal and in-orbit servicing
+461,Daifuku,https://www.daifuku.com/,https://www.linkedin.com/company/daifuku/,Industrial & Warehouse Robotics,Osaka,Japan,"10,001+","Warehouse ASRS, sorters and conveyor systems"
+462,Epson (Seiko Epson) Robots,https://global.epson.com/,https://www.linkedin.com/company/epson/,Industrial & Warehouse Robotics,Suwa,Japan,"10,001+",SCARA and six-axis industrial robots
+463,FANUC,https://www.fanuc.co.jp/,https://www.linkedin.com/company/fanuc-corporation/,Industrial & Warehouse Robotics,"Oshino, Yamanashi",Japan,,"Industrial robots, CNC systems and robomachines"
+464,FUJI Robotics (Fuji Yusoki Kogyo),https://www.fujiroboticsindia.com/,https://www.linkedin.com/company/fuji-robotics-india/,Industrial & Warehouse Robotics,Kobe,Japan,201-500,Robotic palletizing systems
+465,ispace,https://www.ispace-inc.com/,https://www.linkedin.com/company/ispace-inc/,Aerospace & Space,Tokyo,Japan,201-500,Lunar landers and rovers
+466,Kawasaki Robotics,https://kawasakirobotics.com/,https://www.linkedin.com/company/kawasaki-robotics/,Industrial & Warehouse Robotics,Kobe,Japan,"10,001+",Industrial robots for manufacturing
+467,Keyence,https://www.keyence.com/,https://www.linkedin.com/company/keyence/,Robot Components & Sensors,Osaka,Japan,"10,001+","Machine vision, sensors and measurement systems"
+468,Mitsubishi Electric (Factory Automation),https://www.mitsubishielectric.com/,https://www.linkedin.com/company/mitsubishi-electric-fa-global/,Industrial Automation,Tokyo,Japan,"10,001+","PLCs, drives, servos and industrial robots"
+469,Omron,https://omron.com/,https://www.linkedin.com/company/omron-corporation/,Industrial Automation,Kyoto,Japan,"10,001+","Sensors, controllers, motion and mobile robots"
+470,Rapyuta Robotics,https://rapyuta-robotics.com/,https://www.linkedin.com/company/rapyuta-robotics/,Industrial & Warehouse Robotics,Tokyo,Japan,51-200,Warehouse pick-assist robots and cloud robotics
+471,Telexistence,https://tx-inc.com/,https://www.linkedin.com/company/telexistenceinc/,Industrial & Warehouse Robotics,Tokyo,Japan,51-200,Remote-controlled and AI robots for retail and logistics
+472,Terra Drone,https://terra-drone.net/,https://www.linkedin.com/company/terradronecorp/,Drones & UAVs,Tokyo,Japan,201-500,Industrial drones and drone services
+473,TIER IV,https://tier4.co.jp/,https://www.linkedin.com/company/tier-iv-inc/,Autonomous Vehicles,Tokyo,Japan,201-500,Open-source autonomous driving software
+474,Toyota Automated Logistics,http://toyota-automated-logistics.com/,https://www.linkedin.com/company/toyotaautomatedlogistics/,Industrial & Warehouse Robotics,Kariya,Japan,"1,001-5,000","Warehouse automation, AGVs and automated forklifts"
+475,Woven by Toyota,https://woven.toyota/,https://www.linkedin.com/company/wovenbytoyota/,Autonomous Vehicles,Tokyo,Japan,"1,001-5,000",Automated driving software and mobility tech (Toyota)
+476,Yaskawa Electric,https://www.yaskawa-global.com/,,Industrial & Warehouse Robotics,Kitakyushu,Japan,,"Industrial robots, servo drives and motion controllers"
+477,Autonics,https://www.autonics.com,https://www.linkedin.com/company/autonics-corporation/,Robot Components & Sensors,Seoul,South Korea,"1,001-5,000","Sensors, controllers and motion devices for factory automation"
+478,Doosan Robotics,https://www.doosanrobotics.com/,https://www.linkedin.com/company/doosan-robotics/,Industrial & Warehouse Robotics,Seongnam,South Korea,201-500,Collaborative robots
+479,Holiday Robotics,https://www.holiday-robotics.com/,https://www.linkedin.com/company/holiday-robotics/,Humanoid & General-purpose Robots,Seoul,South Korea,51-200,Humanoid robots for manufacturing
+480,HUROTICS,http://hurotics.com/,https://www.linkedin.com/company/hurotics/,Medical & Rehab Robotics,Seoul,South Korea,11-50,Wearable robots for mobility assistance
+481,Neuromeka,http://www.neuromeka.com/,https://www.linkedin.com/company/neuromeka/,Industrial & Warehouse Robotics,Seoul,South Korea,201-500,Collaborative and industrial robots
+482,Rainbow Robotics,https://rainbow-robotics.com/,https://www.linkedin.com/company/rainbow-robotics/,Humanoid & General-purpose Robots,Daejeon,South Korea,51-200,"Humanoids, quadrupeds and cobots"
+483,RLWRLD,https://www.rlwrld.ai/,https://www.linkedin.com/company/rlwrld/,Robotics AI & Software,Seoul,South Korea,51-200,Robotics foundation models for dexterous hands
+484,AGIBOT,https://www.agibot.com/,https://www.linkedin.com/company/agibotofficial/,Humanoid & General-purpose Robots,Shanghai,China,"1,001-5,000",Humanoid and embodied-AI robots
+485,Astribot,https://www.astribot.com/en,https://www.linkedin.com/company/astribot/,Humanoid & General-purpose Robots,Shenzhen,China,201-500,AI robot assistants
+486,Booster Robotics,https://www.booster.tech/,https://www.linkedin.com/company/booster-robotics/,Humanoid & General-purpose Robots,Beijing,China,51-200,Small humanoid robots for developers and research
+487,DEEP Robotics,https://www.deeprobotics.cn/,https://www.linkedin.com/company/deep-robotics/,"Field, Inspection & Marine Robotics",Hangzhou,China,"501-1,000",Quadruped and humanoid robots for inspection
+488,DJI,http://www.dji.com/,https://www.linkedin.com/company/dji/,Drones & UAVs,Shenzhen,China,"10,001+",Consumer and enterprise drones
+489,Dobot,https://www.dobot-robots.com/,https://www.linkedin.com/company/dobotrobotics/,Industrial & Warehouse Robotics,Shenzhen,China,"501-1,000",Collaborative and educational robot arms
+490,DUCO Robots,https://www.ducorobots.com/,https://www.linkedin.com/company/ducorobot/,Industrial & Warehouse Robotics,Shanghai,China,"501-1,000",Collaborative robot arms
+491,EngineAI,https://www.engineai.com.cn/,https://www.linkedin.com/company/engineai-robotics/,Humanoid & General-purpose Robots,Shenzhen,China,11-50,Humanoid robots
+492,Fairino,https://www.fairino.com/,https://www.linkedin.com/company/fairino-robot/,Industrial & Warehouse Robotics,Suzhou,China,201-500,Collaborative robot arms
+493,Fourier,https://www.fftai.com,https://www.linkedin.com/company/fourier-intelligence-robotics/,Humanoid & General-purpose Robots,Shanghai,China,"501-1,000",Humanoid and rehabilitation robots
+494,Galbot,https://www.galbot.com,https://www.linkedin.com/company/galbot-robotics/,Humanoid & General-purpose Robots,Beijing,China,51-200,General-purpose humanoid robots with VLA models
+495,Geek+,https://www.geekplus.com/,https://www.linkedin.com/company/geekplusrobotics/,Industrial & Warehouse Robotics,Beijing,China,"1,001-5,000",Warehouse robots and goods-to-person systems
+496,Hai Robotics,https://www.hairobotics.com/,https://www.linkedin.com/company/hai-robotics/,Industrial & Warehouse Robotics,Shenzhen,China,"1,001-5,000",Autonomous case-handling warehouse robots
+497,Kepler Robotics,https://www.gotokepler.com/,https://www.linkedin.com/company/kepler-exploration-robotics/,Humanoid & General-purpose Robots,Shanghai,China,11-50,General-purpose humanoid robots
+498,LimX Dynamics,https://www.limxdynamics.com/,https://www.linkedin.com/company/limx-dynamics/,Humanoid & General-purpose Robots,Shenzhen,China,51-200,Humanoid and legged robots
+499,Mech-Mind Robotics,https://www.mech-mind.com/,https://www.linkedin.com/company/mechmindrobotics/,Robot Components & Sensors,Beijing,China,"501-1,000",3D vision and AI for industrial robots
+500,Pony.ai,https://pony.ai/,https://www.linkedin.com/company/pony-ai/,Autonomous Vehicles,Guangzhou,China,"1,001-5,000",Robotaxis and autonomous trucks
+501,Pudu Robotics,http://www.pudurobotics.com,https://www.linkedin.com/company/pudurobotics/,Service & Consumer Robots,Shenzhen,China,"1,001-5,000",Delivery and cleaning service robots
+502,ROBOTERA,https://www.robotera.com/,https://www.linkedin.com/company/aboutrobotera/,Humanoid & General-purpose Robots,Hong Kong,China,"501-1,000",Humanoid robots and dexterous hands
+503,Syrius Robotics,https://www.syriusrobotics.com,https://www.linkedin.com/company/syrius-technology/,Industrial & Warehouse Robotics,Shenzhen,China,51-200,Warehouse AMRs for picking and logistics
+504,UBTECH Robotics,http://www.ubtrobot.com/,https://www.linkedin.com/company/ubtech-robotics/,Humanoid & General-purpose Robots,Shenzhen,China,"1,001-5,000",Humanoid and service robots
+505,Unitree Robotics,https://www.unitree.com/en/,https://www.linkedin.com/company/unitreerobotics/,Humanoid & General-purpose Robots,Hangzhou,China,201-500,Quadruped and humanoid robots
+506,WeRide,https://weride.ai/,https://www.linkedin.com/company/werideai/,Autonomous Vehicles,Guangzhou,China,"1,001-5,000","Robotaxis, robobuses and autonomous vans"
+507,XPENG,https://www.xpeng.com/,https://www.linkedin.com/company/xpengglobal/,Autonomous Vehicles,Guangzhou,China,"10,001+","Smart EVs, autonomous driving and humanoid robots"
+508,ZIKOO Robotics,https://www.zikooint.com,https://www.linkedin.com/company/zikooint/,Industrial & Warehouse Robotics,Nanjing,China,201-500,Robot joint modules and industrial robots
+509,ZS Robotics,http://www.zsrobotics.com,https://www.linkedin.com/company/zsrobotics/,Industrial & Warehouse Robotics,Shanghai,China,51-200,Pallet AS/RS shuttles and automated warehouse systems
+510,Delta Electronics,https://www.deltaww.com/,https://www.linkedin.com/company/delta-electronics/,Industrial Automation,Taipei,Taiwan,"10,001+","Servo drives, motion control and industrial automation"
+511,HIWIN,https://www.hiwin.tw/,https://www.linkedin.com/company/hiwintw/,Robot Components & Sensors,Taichung,Taiwan,"1,001-5,000","Linear guides, ballscrews and motion components"
+512,Techman Robot,https://www.tm-robot.com/,https://www.linkedin.com/company/techmanrobot/,Industrial & Warehouse Robotics,Taoyuan,Taiwan,"501-1,000",Collaborative robots with built-in vision
+513,Galatek,https://www.galatek.ai/,https://www.linkedin.com/company/galatek/,Industrial & Warehouse Robotics,Singapore,Singapore,11-50,AI-enabled lab and semiconductor packaging automation
+514,Griffin Labs,https://griffinlabs.ai/,https://www.linkedin.com/company/griffinlabs/,Humanoid & General-purpose Robots,Singapore,Singapore,2-10,Humanoid robots and robot autonomy lab
+515,Roceso Technologies,http://www.roceso.com,https://www.linkedin.com/company/roceso-technologies-pte-ltd/,Medical & Rehab Robotics,Singapore,Singapore,2-10,Soft robotic gloves for rehabilitation
+516,Rolo Robotics,https://www.rolorobotics.com/,https://www.linkedin.com/company/rolorobotics/,Service & Consumer Robots,Singapore,Singapore,2-10,Autonomous robotic micro-kitchens
+517,Sharpa,https://www.sharpa.com,https://www.linkedin.com/company/sharpa-robotics/,Humanoid & General-purpose Robots,Singapore,Singapore,201-500,Dexterous robot hands and humanoids
+518,ST Engineering,https://www.stengg.com,https://www.linkedin.com/company/st-engineering/,Defence Autonomy,Singapore,Singapore,"10,001+","Aerospace, defence and autonomous systems"
+519,DF Automation & Robotics,https://www.dfautomation.com/,https://www.linkedin.com/company/dfautomation/,Industrial & Warehouse Robotics,Skudai,Malaysia,51-200,AMRs and AGVs for factories and warehouses
+520,GMEX Robotics,https://gmexrobotics.com/,https://www.linkedin.com/company/gmex-robotics/,Humanoid & General-purpose Robots,Sydney,Australia,11-50,Robotics built on motion and biomechanics engineering
+521,KNAPP Australia,https://www.knapp.com/en/,https://www.linkedin.com/company/knapp-australia/,Industrial & Warehouse Robotics,Melbourne,Australia,51-200,Warehouse automation systems (KNAPP group)
+522,Action To Action Robotics,https://www.actiontoaction.ai/,https://www.linkedin.com/company/action-to-action-robotics/,Service & Consumer Robots,Dubai,United Arab Emirates,51-200,"Humanoid and service robot sales, rental and repair"
+523,Ameca Robotics,https://www.amecarobotics.com/,https://www.linkedin.com/company/ameca-robotics/,Service & Consumer Robots,Abu Dhabi,United Arab Emirates,2-10,"Service, cleaning and humanoid robot solutions"
+524,Ibtikar Robotics,https://ibtikarrobotics.com/,https://www.linkedin.com/company/ibtikar-robotics/,Service & Consumer Robots,Dubai,United Arab Emirates,2-10,Delivery and serving robots for hospitality
+525,IQ Robotics,https://www.iqrobotics.com/,https://www.linkedin.com/company/iqrobotics/,Industrial & Warehouse Robotics,Dubai,United Arab Emirates,51-200,Robotic warehouse picking and sortation systems
+526,Reliable Robotics,https://reliablerobotics.ai/,https://www.linkedin.com/company/reliable-robotics/,Service & Consumer Robots,Dubai,United Arab Emirates,2-10,"Service robot sales, customisation and deployment"
+527,RoboX,https://www.robox-tech.com/,https://www.linkedin.com/company/robox-tech/,Service & Consumer Robots,Dubai,United Arab Emirates,2-10,Reseller-integrator of quadruped and humanoid robots
+528,YS Lootah Robotics,https://yslootahrobotics.com/,https://www.linkedin.com/company/ys-lootah-robotics/,Service & Consumer Robots,Dubai,United Arab Emirates,11-50,"Distributor of Pudu, Unitree and AgiBot robots"
+529,Orca Robotics,,https://www.linkedin.com/company/orca-robotics/,"Field, Inspection & Marine Robotics",,Egypt,2-10,AI-powered autonomous robotic systems
